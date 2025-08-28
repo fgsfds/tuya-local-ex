@@ -1,15 +1,16 @@
 {
     "domain": "tuya_local",
-    "name": "Tuya Local",
+    "name": "Tuya Local Ex",
     "codeowners": [
-        "@make-all"
+        "@make-all",
+        "@fgsfds"
     ],
     "config_flow": true,
     "dependencies": [],
-    "documentation": "https://github.com/make-all/tuya-local",
+    "documentation": "https://github.com/fgsfds/tuya-local-ex",
     "integration_type": "device",
     "iot_class": "local_push",
-    "issue_tracker": "https://github.com/make-all/tuya-local/issues",
+    "issue_tracker": "https://github.com/fgsfds/tuya-local-ex/issues",
     "loggers": [
         "tuya_local",
         "tinytuya"
