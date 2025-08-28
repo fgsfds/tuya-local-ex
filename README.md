@@ -1,12 +1,20 @@
-# Home Assistant Tuya Local component
+# Home Assistant Tuya Local component with additional devices
 
-Please report any [issues](https://github.com/make-all/tuya-local/issues) and feel free to raise [pull requests](https://github.com/make-all/tuya-local/pulls).
-[Many others](https://github.com/make-all/tuya-local/blob/main/ACKNOWLEDGEMENTS.md) have contributed their help already.
+Fork of the original [Tuya Local repository](https://github.com/make-all/tuya-local) with
+additional support for devices that were rejected or removed due to
+political or other non-technical reasons.
 
-[![BuyMeCoffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jasonrumney)
+A list of devices added in this fork can be found in the [DEVICES_EX.md](DEVICES_EX.md) file.
+
+Only report issues with the additional devices in this repository.
+
+Use original repository to report [issues](https://github.com/make-all/tuya-local/issues) with other devies and integration itself
+and to raise [pull requests](https://github.com/make-all/tuya-local/pulls).
+
+[Many others](ACKNOWLEDGEMENTS.md) have contributed their help already.
 
 This is a Home Assistant integration to support devices running Tuya
-firmware without going via the Tuya cloud.  Devices are supported
+firmware without going via the Tuya cloud. Devices are supported
 over WiFi, limited support for devices connected via hubs is available.
 
 Note that many Tuya devices seem to support only one local connection.
@@ -79,9 +87,9 @@ to Home Assistant. Other limitations will apply to this, so you might want
 to try both, and only use this integration for devices that are not working
 properly over Matter.
 
-A list of currently supported devices can be found in the [DEVICES.md](https://github.com/make-all/tuya-local/blob/main/DEVICES.md) file.
+A list of currently supported devices can be found in the [DEVICES.md](DEVICES.md) file.
 
-Documentation on building a device configuration file is in [/custom_components/tuya_local/devices/README.md](https://github.com/make-all/tuya-local/blob/main/custom_components/tuya_local/devices/README.md)
+Documentation on building a device configuration file is in [/custom_components/tuya_local/devices/README.md](/custom_components/tuya_local/devices/README.md)
 
 If your device is not listed, you can find the information required to add a configuration for it in the following locations:
 
@@ -109,14 +117,14 @@ follow the [instructions for adding a custom
 repository](https://hacs.xyz/docs/faq/custom_repositories) and then
 the integration will be available to install like any other.
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=make-all&repository=tuya-local&category=integration)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=fgsfds&repository=tuya-local_ex&category=integration)
 
 ## Configuration
 
 After installing, you can easily configure your devices using the Integrations configuration UI.  Go to Settings / Devices & Services and press the Add Integration button, or click the shortcut button below (requires My Homeassistant configured).
 
 [![Add Integration to your Home Assistant
-instance.](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start/?domain=tuya_local)
+instance.](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start/?domain=tuya_local_ex)
 
 ### Choose your configuration path
 
