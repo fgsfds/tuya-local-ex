@@ -1,12 +1,22 @@
-![logo](custom_components/tuya_local/brand/icon.svg) 
+![logo](custom_components/tuya_local/brand/icon.svg)
 
-Please report any [issues](https://github.com/make-all/tuya-local/issues) and feel free to raise [pull requests](https://github.com/make-all/tuya-local/pulls).
-[Many others](https://github.com/make-all/tuya-local/blob/main/ACKNOWLEDGEMENTS.md) have contributed their help already.
+# Home Assistant Tuya Local component with additional devices
 
-[![BuyMeCoffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jasonrumney)
+Fork of the original [Tuya Local repository](https://github.com/make-all/tuya-local) with
+additional support for devices that were rejected or removed due to
+political or other non-technical reasons.
+
+A list of devices added in this fork can be found in the [DEVICES_EX.md](DEVICES_EX.md) file.
+
+Only report issues with the additional devices in this repository.
+
+Use original repository to report [issues](https://github.com/make-all/tuya-local/issues) with other devies and integration itself
+and to raise [pull requests](https://github.com/make-all/tuya-local/pulls).
+
+[Many others](ACKNOWLEDGEMENTS.md) have contributed their help already.
 
 This is a Home Assistant integration to support devices running Tuya
-firmware without going via the Tuya cloud.  Devices are supported
+firmware without going via the Tuya cloud. Devices are supported
 over WiFi, limited support for devices connected via hubs is available.
 
 Note that many Tuya devices seem to support only one local connection.
@@ -30,6 +40,79 @@ easier to set up using that, or another more recent fork, as an alternative.
 
 ---
 
+## Device support
+
+Note that devices sometimes get firmware upgrades, or incompatible
+versions are sold under the same model name, so it is possible that
+the device will not work despite being listed.
+
+Battery powered devices such as door and window sensors, smoke alarms
+etc which do not use a hub are not possible to support locally, due
+to the power management that they need to do to get acceptable battery
+life. In some cases that may also apply when a device that can be
+either battery or USB powered is plugged into USB. If you cannot gather
+Warning level logs with dps listed when attempting to set it up, then it
+will likely not work with this integration.
+
+Hubs are currently supported, but with limitations.  Each connection
+to a sub device uses a separate network connection, but like other
+Tuya devices, hubs are usually limited in the number of connections
+they can handle, with typical limits being 1 or 3, depending on the specific
+Tuya module they are using.  This severely limits the number of sub devices
+that can be connected through this integration.
+
+Sub devices should be added using the `device_id`, `address` and `local_key`
+of the hub they are attached to, and the `node_id` of the sub-device. If there
+is no `node_id` listed, try using the `uuid` instead.
+
+Tuya Zigbee devices are usually standard zigbee devices, so as an
+alternative to this integration with a Tuya hub, you can use a
+supported Zigbee USB stick or Wifi hub with
+[ZHA](https://www.home-assistant.io/integrations/zha/#compatible-hardware)
+or [Zigbee2MQTT](https://www.zigbee2mqtt.io/guide/adapters/).
+
+Some Tuya Bluetooth devices can be supported directly by the
+[tuya_ble](https://github.com/PlusPlus-ua/ha_tuya_ble/) integration.
+
+Tuya IR/RF blasters are supported through the remote entity platform.
+They can learn and store IR and RF commands, and replay them via the
+`remote.learn_command` and `remote.send_command` services.
+
+Tuya IR hubs that expose general IR remotes as sub devices usually
+expose them as one way devices (send only).  Due to the way this
+integration does device detection based on the dps returned by the
+device, it is not currently able to detect such devices at all.  Some
+specialised IR hubs for air conditioner remote controls do work, as
+they try to emulate a fully smart air conditioner using internal memory
+of what settings are currently set, and internal temperature and humidity
+sensors.
+
+Some Tuya hubs now support Matter over WiFi, and this can be used as an
+alternative to this integration for connecting the hub and sub-devices
+to Home Assistant. Other limitations will apply to this, so you might want
+to try both, and only use this integration for devices that are not working
+properly over Matter.
+
+A list of currently supported devices can be found in the [DEVICES.md](DEVICES.md) file.
+
+Documentation on building a device configuration file is in [/custom_components/tuya_local/devices/README.md](/custom_components/tuya_local/devices/README.md)
+
+If your device is not listed, you can find the information required to add a configuration for it in the following locations:
+
+1. When attempting to add the device, if it is not supported, you will either get a message saying the device cannot be recognised at all, or you will be offered a list of devices that are partial matches. You can cancel the process at this point, and look in the Home Assistant log - there should be a message there containing the current data points (dps) returned by the device.
+2. If you have signed up for [iot.tuya.com](https://iot.tuya.com/), you should have access to the API Explorer under "Cloud". Under "Device Control" there is a function called "Query Things Data Model", which returns the dp id in addition to range information that is needed for integer and enum data types.
+
+If you file an issue to request support for a new device, please include the following information:
+
+1. Logs from this integration showing the LOCAL DPS actually received from the device.
+2. Identification of the device, such as model and brand name.
+3. As much information on the datapoints you can gather using the above methods.
+4. If manuals or webpages are available online, links to those help understand how to interpret the technical info above - even if they are not in English automatic translations can help, or information in them may help to identify identical devices sold under other brands in other countries that do have English or more detailed information available.
+
+If you submit a pull request, please understand that the config file naming and details of the configuration may get modified before release - for example if your name was too generic, I may rename it to a more specific name, or conversely if the device appears to be generic and sold under many brands, I may change the brand specific name to something more general.  So it may be necessary to remove and re-add your device once it has been integrated into a release.
+
+---
+
 ## Installation
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge)](https://github.com/hacs/integration)
@@ -41,14 +124,14 @@ follow the [instructions for adding a custom
 repository](https://hacs.xyz/docs/faq/custom_repositories) and then
 the integration will be available to install like any other.
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=make-all&repository=tuya-local&category=integration)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=fgsfds&repository=tuya-local_ex&category=integration)
 
 ## Configuration
 
 After installing, you can easily configure your devices using the Integrations configuration UI.  Go to Settings / Devices & Services and press the Add Integration button, or click the shortcut button below (requires My Homeassistant configured).
 
 [![Add Integration to your Home Assistant
-instance.](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start/?domain=tuya_local)
+instance.](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start/?domain=tuya_local_ex)
 
 ### Choose your configuration path
 
@@ -270,8 +353,7 @@ other `infrared` emitters using the tuya-local specific "Send Learned IR command
 service.
 
 ### Learning commands
-
-Use the `remote.learn_command` service with:
+Use the `remote.learn_command` service with:
 - `command`: the name to store the command under (e.g. `power`)
 - `device`: a name for the appliance being controlled (e.g. `TV`)
 - `command_type`: set to `rf` for RF remotes, omit or leave blank for IR
