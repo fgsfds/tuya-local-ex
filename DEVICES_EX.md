@@ -12,3 +12,4 @@
 ### Vacuum Cleaners
 
 - Tuvio TR06HLCB
+- NEATSVOR X520RU

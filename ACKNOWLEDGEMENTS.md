@@ -1032,3 +1032,4 @@ Further device support has been made with the assistance of users. Please consid
 - [duchu-net](https://github.com/duchu-net) for assisting with support for Moes WCM-P52 v2 PTZ indoor camera.
 - [perfect-deform](https://github.com/perfect-deform) for Rapid RAM N1 Wi-Fi air conditioner support.
 - [mistmasta](https://github.com/mistmasta) for Tuvio TR06HLCB vacuum cleaner support.
+- [Flegm](https://github.com/Flegm) for NEATSVOR X520RU vacuum cleaner support.
