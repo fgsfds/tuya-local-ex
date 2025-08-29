@@ -5,6 +5,10 @@
 - Tadiran Wind 65/3P
 - Rapid RAM N1 Wi-Fi
 
+### Water Boilers
+
+- Termica Wi-Fi Boiler Controller
+
 ### Kitchen Appliances
 
 - Libhof IM-112 ice maker
