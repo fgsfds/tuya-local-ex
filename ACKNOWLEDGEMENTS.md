@@ -1030,6 +1030,4 @@ Further device support has been made with the assistance of users. Please consid
 - [Gillstrap](https://github.com/Gillstrap) for assisting with support for Living Comfort LC310S Series twin window fan.
 - [tribut](https://github.com/tribut) for contributing improvements for Moebot/Parkside mowers.
 - [duchu-net](https://github.com/duchu-net) for assisting with support for Moes WCM-P52 v2 PTZ indoor camera.
-- [perfect-deform](https://github.com/perfect-deform) for Rapid RAM N1 Wi-Fi air conditioner support.
-- [mistmasta](https://github.com/mistmasta) for Tuvio TR06HLCB vacuum cleaner support.
-- [Flegm](https://github.com/Flegm) for NEATSVOR X520RU vacuum cleaner support.
+- [lenard-a](https://github.com/lenard-a) for assisting with support for Dyras TF-16WIFI tower fan.
