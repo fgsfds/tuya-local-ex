@@ -32,6 +32,7 @@
 - Goldair GPPH, GCPV, GECO and PH-ET heaters
 - Hama radiator controller
 - Heatstorm DH-100-TWI, HS-1500 and HS-6000-GC heaters
+- Herschel Select XLS heated bathroom mirror with lights
 - Herschel infrared heater
 - HJZ oil column radiator
 - Hombli radiator controller
@@ -144,7 +145,7 @@
 - Pool Systems IPS Pro pool heat pump (also Fairland Inver-X)
 - Pro-Energy PE08 pool heat pump
 - Remora pool heat pump
-- Steinbach Solid 4.3 pool heat pump
+- Steinbach Solid 4.3 and Silent Mini pool heat pumps
 - Swim & Fun InverBoost pool heat pump
 - W'eau pool heat pump (simple model and a more complex 13kW model)
 
@@ -454,6 +455,7 @@
 - Casdon TD Pro 2 oven
 - Cecofry 5500 Connected air fryer
 - Etna VW644MC dishwasher
+- Goldair GGK1000 smart kettle
 - Götze and Jensen KT975K smart kettle
 - Homend Royaltea kettle
 - Inkbird iBBQ-4BW, iBBQ-4T, IBS-M1S, IBS-M2, IBT-26S cooking probe thermometers
