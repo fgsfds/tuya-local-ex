@@ -318,6 +318,7 @@
 - Princess DC pedestal fan
 - Princess Smart Tower fan
 - Reiga ceiling fans with and without light
+- Riyue Box 3 fan with light
 - Roomratv ceiling fan with light
 - Royal Clima RCB 150 ventilation system
 - Scheeair Nova 100 ventilation fan
@@ -915,6 +916,7 @@ port and password.
 
 ### Pet care
 
+- Advwin 6L camera pet feeder
 - AF3W pet feeder
 - Arlec Grid Connect 5L pet feeder
 - BNETA F1-D pet feeder (likely compatible with Petwant F1-C)
@@ -1036,6 +1038,7 @@ port and password.
 - ME201W level sensor
 - Mirabella Genio motion sensor
 - Moes human presence sensor
+- Moes single outlet water timer
 - Momcozy white noise machine (2 variants)
 - Mustool MT15/MT29 air quality box
 - Nedis WIFIPD10WT pill dispenser
