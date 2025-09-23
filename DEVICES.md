@@ -210,7 +210,7 @@
 - EZAIoT R9Lite thermostat
 - EZAIoT thermostat smartplug
 - Garza thermostat
-- Herschel XLS T-PL plugin thermostat
+- Herschel XLS T-MS mains and T-PL plugin thermostats
 - Hysen HY02TP, HY08ACF, HY08WE-2, HY101RF thermostats
 - Inkbird IPT-2CH v2.0 reptile thermostat
 - Inkbird ITC306A, ITC308 thermostat smartplugs
@@ -931,6 +931,7 @@ port and password.
 - Duoqu Neo-A cat litter box
 - Els Pet Spaceship pet litter box
 - Faroro PF50 pet feeder
+- Fukumaru AF01-W pet feeder
 - Hapaw pet fountain
 - HoneyGuardian S56 pet feeder
 - iLonda L88 fish feeder
@@ -943,6 +944,7 @@ port and password.
 - Mypin 6L Video pet feeder
 - Nedis pet feeder
 - Papifeed pet feeder
+- Petempo PAF-02 pet feeder
 - Petlibro PLAF103 pet feeder
 - Petlibro PLAF203 pet feeder with camera
 - Petoneer Fresco EzGo pet fountain
