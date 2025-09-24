@@ -1026,7 +1026,7 @@ Further device support has been made with the assistance of users. Please consid
 - [chrkov](https://github.com/chrkov) for assisting with support for Revesien Q-Pro-W aroma diffuser.
 - [lilYozik](https://github.com/lilYozik) for assisting with support for Eberg Fyn tower fan.
 - [malkavi](https://github.com/malkavi) for contributing support for Cecotec Conga 1970 robot vacuum.
-- [LuckyG3000](https://github.com/LuckyG3000) for assisting with support for Klarstein Wonderwall 600 IR heater.
+- [LuckyG3000](https://github.com/LuckyG3000) for assisting with support for Klarstein Wonderwall 600 IR heater, and contributing improvements for Dewin KWS-306WF energy meter.
 - [Gillstrap](https://github.com/Gillstrap) for assisting with support for Living Comfort LC310S Series twin window fan.
 - [tribut](https://github.com/tribut) for contributing improvements for Moebot/Parkside mowers.
 - [duchu-net](https://github.com/duchu-net) for assisting with support for Moes WCM-P52 v2 PTZ indoor camera.
@@ -1047,3 +1047,4 @@ Further device support has been made with the assistance of users. Please consid
 - [uspass](https://github.com/uspass) for contributing support for Tongou TOWSMR1 20 circuit breaker.
 - [Epictek](https://github.com/Epictek) for contributing support for Fukumaru AF01-W, Petempo PAF-02 pet feeders.
 - [RichardL64](https://github.com/RichardL64) for contributing support for Herschel XLS T-MT thermostat.
+- [blackscreener](https://github.com/blackscreener) for contributing support for ILIFE V20 and A30 pro robot vacuums.
