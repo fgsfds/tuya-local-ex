@@ -47,7 +47,8 @@
 - Kogan panel heaters - KAHTP, KAWFHTP, KASMGPH models
 - Lehmann LHOHC-2013C electric radiator
 - Mellerware Comfy electric radiator (tested with Medium 1200W)
-- Modern Flames Orion fireplace
+- Modern Ember Vibrance XH-BG-15W/30WZKWIFI-10 electric fireplace
+- Modern Flames Orion electric fireplace
 - MRC Magnum floor heating
 - Nedis ceramic PTC fan heater
 - Nedis convection heater - WIFIHTPL20F model
@@ -413,7 +414,7 @@
 - Siguro SGR DH-F300W dehumidifier
 - Sygonix Smarter dehumidifier
 - Tesla Smart XL dehumidifier
-- VacPlus dehumidifier
+- VacPlus dehumidifier
 - Vivosun DE0003 dehumidifier
 - Woods WDD90 dehumidifier
 
@@ -478,7 +479,7 @@
 - Silvercrest HF-6602T air fryer
 - Ultenic K10 air fryer
 - Wandai GS-801 infant formula maker (sold as Easybaby, Gustino)
-- Weekett smart kettle
+- Weeket KE4071TF, KES5211TE-CE smart kettles
 
 ### Smart Meter/Circuit Breaker
 
@@ -693,6 +694,7 @@ of device.
 - Atomi smart color string light
 - Blitzwolf BW-LT31 LED strip
 - Brilliant Smart 22W twin flood lights with motion sensor
+- Brilliant Smart PIR outdoor sensor light switch
 - Brizlabs string lights
 - Calex S45 Clear E27 lightbulb
 - Deltaco LED Strip (SH-LW5M)
@@ -828,7 +830,7 @@ of device.
 - Neatsvor X600 vacuum cleaner
 - OPK K2 vacuum cleaner
 - Parkside PPWD 30 A1 workshop vacuum
-- Proscenic M9 vacuum cleaner
+- Proscenic M9, 850T vacuum cleaners
 - Rinkmo D2 vacuum cleaner
 - Tefal X-plorer serie 75 animal vacuum
 - Tesvor S6 vacuum cleaner with mop

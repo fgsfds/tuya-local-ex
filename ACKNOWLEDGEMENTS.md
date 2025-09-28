@@ -1011,7 +1011,7 @@ Further device support has been made with the assistance of users. Please consid
 - [infestonn](https://github.com/infestonn) for contributing support for Aeno EK1S kettle.
 - [stepsolar](https://github.com/stepsolar) for contributing improvements to KW02 video doorbell and support for RCU16 relay module.
 - [saberraz](https://github.com/saberraz) for contributing support for Prodotec PT02 air quality monitor, GZAIR radon gas detector.
-- [fender4645](https://github.com/fender4645) for contributing support for Heonofly Smart Wood ceiling fan with lights.
+- [fender4645](https://github.com/fender4645) for contributing support for Heonofly Smart Wood ceiling fan with lights and Modern Ember Vibrance fireplace.
 - [JakubMadro](https://github.com/JakubMadro) for contributing support for EARU PC473 3-phase energy monitor.
 - [jlg78fr](https://github.com/jlg78fr) for assisting with support for Unistyle WT-04W water timer.
 - [KoenVanduffel](https://github.com/KoenVanduffel) for assisting with support for Oscal PowerMax 6000 portable power station.
@@ -1053,3 +1053,6 @@ Further device support has been made with the assistance of users. Please consid
 - [fragpic](https://github.com/fragpic) for assisting with support for AM24 venetian blinds motor.
 - [rachinibop](https://github.com/rachinibop) for assisting with support for SunnyBot plant light.
 - [chucknorris101](https://github.com/chucknorris101) for assisting with support for Alen Breathesmart 45i air purifier.
+- [ffonte](https://github.com/ffonte) for assisting with support for Proscenic 850T robot vacuum.
+- [Shmob1](https://github.com/Shmob1) for assisting with support for Brilliant Smart PIR outdoor sensor.
+- [siobhanellis](https://github.com/siobhanellis) for assisting with support for Weeket KES5211TE-CE kettle.
