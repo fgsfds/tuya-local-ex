@@ -274,7 +274,7 @@
 - ComfortZone Powr Curve stand fan
 - Create XW-FAN-215-D ceiling fan with light (dimming and non-dimming variants)
 - Depauley WS-FPZ37-18I-EU ceiling fan with light
-- Deta fan controller
+- Deta fan controllers (6914HA Series 2 and 3)
 - Djive ARC humidifying fan
 - Dream Maker Feel DM01 fan
 - Duux Whisper Flex pedestal fan
@@ -708,6 +708,7 @@ of device.
 - Fancy LEDs screen sync light 2.0
 - Feit dimmer (may work with other brands that just have a switch, dimmer and
   optional minimum brightness and bulb type)
+- Feit OneSync Smart Bridge lighting controller
 - Feit RGBWW light bulb (like generic RGBWW, but without scene support)
 - Galaxy Projector
 - Gosund SW2 dimmer switch
@@ -947,6 +948,7 @@ port and password.
 - Littepets MA2 series Cute Baby cat litter box
 - LSC Smart Connect pet feeder
 - Meegeem cat litter box
+- MolyPet F02W pet feeder
 - Mypin 6L Video pet feeder
 - Nedis pet feeder
 - Papifeed pet feeder
