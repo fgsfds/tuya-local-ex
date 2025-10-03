@@ -17,7 +17,7 @@ entities:
             constraint: mode
             conditions:
               - dps_val: auto
-                value: auto
+                value: heat_cool
               - dps_val: cold
                 value: cool
                 available: supports_cool
@@ -53,7 +53,7 @@ entities:
             value: F
           - dps_val: c
             value: C
-      - id: 107
+      - id: 108
         type: integer
         optional: true
         name: current_temperature
