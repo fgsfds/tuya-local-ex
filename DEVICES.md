@@ -312,6 +312,7 @@
 - Kogan bladeless fans
 - Ledkia fan and light controller
 - Lexy F501 fan
+- Ligency E26 socket ceiling fan with RGBCW light
 - Living Comfort LC310S twin window fan
 - Lucci Connect Wi-Fi fan remote
 - Lumary A1 ceiling fan with light
@@ -627,6 +628,7 @@ the best option.
 - Noiee NSP21 smartplug
 - Noiee PU13 smartplug
 - Novadigital 4-way switch with backlight, power on state and timers
+- Pop-up smart socket (unknown brand)
 - Qnect QN-WPO3 3 outlet + USB powerstrip with individual timers
 - Relay switch with 433MHz remote (unbranded)
 - RCU16 16ch relay module
@@ -830,7 +832,7 @@ of device.
 - Lefant LS1 Pro, M213, N33, T700 vacuum cleaners
 - Lenovo E1 vacuum cleaner
 - Liectroux G7. XR500 vacuum cleaners
-- Lubluelu SL60D vacuum cleaner with mop
+- Lubluelu A901, SL60D vacuum cleaners
 - MAMNV BR151 vacuum cleaner with mop
 - Medion S10 SW, S20 SW, X10 SW vacuum cleaners
 - Mellerware City Move vacuum cleaner
