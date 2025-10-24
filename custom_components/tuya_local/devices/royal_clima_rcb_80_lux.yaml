@@ -1,0 +1,98 @@
+name: Royal Clima RCB 80 LUX
+
+products:
+  - id: m6ccprsfpd3eh8ou
+    manufacturer: Royal Clima
+    model: RCB 80 LUX
+
+entities:
+  - entity: switch
+    name: Power
+    icon: mdi:power
+    dps:
+      - id: 1
+        type: boolean
+        name: switch
+
+  - entity: select
+    name: Mode
+    icon: mdi:air-filter
+    dps:
+      - id: 2
+        type: string
+        name: option
+        mapping:
+          - dps_val: auto
+            value: Auto
+          - dps_val: sleep
+            value: Sleep
+          - dps_val: fresh
+            value: Fresh
+
+  - entity: select
+    name: Fan speed
+    icon: mdi:fan
+    dps:
+      - id: 12
+        type: string
+        name: option
+        mapping:
+          - dps_val: one
+            value: Low
+          - dps_val: two
+            value: Medium
+          - dps_val: three
+            value: High
+          - dps_val: four
+            value: Max
+
+  - entity: sensor
+    name: PM2.5
+    class: pm25
+    icon: mdi:chemical-weapon
+    dps:
+      - id: 3
+        type: integer
+        name: sensor
+        unit: "µg/m³"
+
+  - entity: sensor
+    name: Filter life
+    icon: mdi:air-filter
+    dps:
+      - id: 11
+        type: integer
+        name: sensor
+        unit: "%"
+
+  - entity: switch
+    name: Filter reset
+    icon: mdi:air-filter
+    dps:
+      - id: 13
+        type: boolean
+        name: switch
+
+  - entity: switch
+    name: Child lock
+    icon: mdi:lock
+    dps:
+      - id: 14
+        type: boolean
+        name: switch
+
+  - entity: switch
+    name: Auxiliary heat
+    icon: mdi:radiator
+    dps:
+      - id: 42
+        type: boolean
+        name: switch
+
+  - entity: switch
+    name: Display (screen)
+    icon: mdi:monitor
+    dps:
+      - id: 101
+        type: boolean
+        name: switch
