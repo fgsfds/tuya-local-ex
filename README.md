@@ -1,17 +1,20 @@
 # Home Assistant Tuya Local component with additional devices
 
-Fork of the original [Tuya Local repository](https://github.com/make-all/tuya-local) with
-additional support for devices that were rejected or removed due to
+Fork of the original [Tuya Local](https://github.com/make-all/tuya-local) with
+support for additional devices that were rejected or removed due to
 political or other non-technical reasons.
 
 A list of devices added in this fork can be found in the [DEVICES_EX.md](DEVICES_EX.md) file.
+Thanks for these devices support go to [these people](ACKNOWLEDGEMENTS_EX.md).
 
 Only report issues with the additional devices in this repository.
 
-Use original repository to report [issues](https://github.com/make-all/tuya-local/issues) with other devies and integration itself
-and to raise [pull requests](https://github.com/make-all/tuya-local/pulls).
+Use original repository to report [issues](https://github.com/make-all/tuya-local/issues) with other devies
+and integration itself and to raise [pull requests](https://github.com/make-all/tuya-local/pulls).
 
 [Many others](ACKNOWLEDGEMENTS.md) have contributed their help already.
+
+[![BuyMeCoffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jasonrumney)
 
 This is a Home Assistant integration to support devices running Tuya
 firmware without going via the Tuya cloud. Devices are supported
@@ -110,6 +113,10 @@ If you submit a pull request, please understand that the config file naming and 
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge)](https://github.com/hacs/integration)
 
+**Remove original Tuya Local integration before downloading this one**
+
+When prompted "Integration is configured" select **Ignore**. Your already configured devices won't be removed.
+
 Installation is easiest via the [Home Assistant Community Store
 (HACS)](https://hacs.xyz/), which is the best place to get third-party
 integrations for Home Assistant. Once you have HACS set up, simply click the button below (requires My Homeassistant configured) or
@@ -117,14 +124,14 @@ follow the [instructions for adding a custom
 repository](https://hacs.xyz/docs/faq/custom_repositories) and then
 the integration will be available to install like any other.
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=fgsfds&repository=tuya-local_ex&category=integration)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=fgsfds&repository=tuya-local-ex&category=integration)
 
 ## Configuration
 
 After installing, you can easily configure your devices using the Integrations configuration UI.  Go to Settings / Devices & Services and press the Add Integration button, or click the shortcut button below (requires My Homeassistant configured).
 
 [![Add Integration to your Home Assistant
-instance.](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start/?domain=tuya_local_ex)
+instance.](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start/?domain=tuya_local)
 
 ### Choose your configuration path
 
