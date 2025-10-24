@@ -1,0 +1,53 @@
+name: Termica Boiler Controller
+
+products:
+  - id: cikfe6hapem5wjw9
+
+entities:
+
+  - entity: climate
+    name: Boiler
+    icon: mdi:water-boiler
+    dps:
+      - id: 1
+        type: boolean
+        name: hvac_mode
+        mapping:
+          - dps_val: false
+            value: "off"
+          - dps_val: true
+            value: "heat"
+      - id: 5
+        type: integer
+        name: temperature
+        unit: "°C"
+        range:
+          min: 30
+          max: 80
+      - id: 6
+        type: integer
+        name: current_temperature
+        unit: "°C"
+        readonly: true
+
+  - entity: sensor
+    name: Return water temp
+    icon: mdi:thermometer-water
+    class: temperature
+    dps:
+      - id: 105
+        type: integer
+        name: sensor
+        unit: "°C"
+
+  - entity: number
+    name: Allowed temp difference
+    icon: mdi:delta
+    dps:
+      - id: 101
+        type: integer
+        name: value
+        unit: "°C"
+        range:
+          min: 5
+          max: 30
