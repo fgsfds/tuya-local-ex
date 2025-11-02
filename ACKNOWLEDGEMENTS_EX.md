@@ -6,3 +6,4 @@
 - [Flegm](https://github.com/Flegm) for NEATSVOR X520RU vacuum cleaner support.
 - [fgsfds](https://github.com/fgsfds) for Libhof IM-112, Termica Boiler Controller, Royal Clima RCB 80 LUX support.
 - [SandDeath](https://github.com/SandDeath) for Deerma DEM-F995W support.
+- [zpk2006](https://github.com/zpk2006) for Royal Clima RCS-1000-P 3.0 support.
