@@ -5,3 +5,4 @@
 - [mistmasta](https://github.com/mistmasta) for Tuvio TR06HLCB vacuum cleaner support.
 - [Flegm](https://github.com/Flegm) for NEATSVOR X520RU vacuum cleaner support.
 - [fgsfds](https://github.com/fgsfds) for Libhof IM-112, Termica Boiler Controller, Royal Clima RCB 80 LUX support.
+- [SandDeath](https://github.com/SandDeath) for Deerma DEM-F995W support.
