@@ -31,7 +31,7 @@
 - Eurom Sani heated towel rail
 - Eurom Sani Wall Heat 2000 and Wall Designheat 2000 heaters
 - Eurom Sani 400,600,800 heaters
-- Goldair GPPH, GCPV, GECO and PH-ET heaters
+- Goldair GPPH, GCPV, GECO, GPOC and PH-ET heaters
 - Hama radiator controller
 - Heatstorm DH-100-TWI, HS-1500 and HS-6000-GC heaters
 - Herschel Select XLS heated bathroom mirror with lights
@@ -928,6 +928,7 @@ port and password.
 - LSC Smart Connect PTZ camera
 - Moes PTZ indoor security camera (WCM-P52 v1 and v2)
 - Nedis outdoor camera
+- Nexsmart Watch 2, Air 2, Air 3 cameraa
 - Pinelake BF02 birdfeeder camera
 - RH-PD10 3MP peephole doorbell camera
 - RL video intercom (reported unable to connect)
