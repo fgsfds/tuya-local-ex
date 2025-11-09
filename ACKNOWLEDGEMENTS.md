@@ -1109,3 +1109,7 @@ Further device support has been made with the assistance of users. Please consid
 - [creoludifico](https://github.com/creoludifico) for contributing support for Nexsmart Watch 2, Air 2 and Air 3 cameras.
 - [PMKA](https://github.com/PMKA) for contributing support for Goldair GPOC2415 oil heater.
 - [fbesserp](https://github.com/fbesserp) for contributing improvements to Catit Pixi smart feeder.
+- [amotruk](https://github.com/amotruk) for contributing support for Mini-B Public litter box.
+- [p1x3lmx](https://github.com/p1x3lmx) for assisting with support for Ningbo BF314A camera pet feeder.
+- [sajtdavid](https://github.com/sajtdavid) for contributing support for CO2v1 carbon dioxide sensor.
+- [dermocles9308](https://github.com/dermocles9308) for assisting with support for Tongou QCB2-100 3 phase circuit breaker.
