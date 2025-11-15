@@ -74,6 +74,7 @@
 - Vonroc GPH-XA-HEMAN heater
 - VTA+ Axial fan heater
 - Wärme Designer wall panel heater
+- WarmeHaus AFD-02-TJ thermostatic towel rain element
 - Wetair WCH-750 heater
 
 ### Air Conditioners / Heat pumps
@@ -443,6 +444,7 @@
 - Clean Air Optima CA-604B, CA-605B humidifiers
 - Clofte Duo 400 humidifier
 - Eanons QT-JS2014 purifying humidifier
+- Homvana H111S humidifier
 - Inkbird IHC-200 humidity controller
 - Klarta Humea humidifier
 - Kyvol EA200 humidifier
