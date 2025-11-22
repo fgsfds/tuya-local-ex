@@ -6,6 +6,7 @@
 - Rapid RAM N1 Wi-Fi
 - Royal Clima RCB 80 LUX
 - Royal Clima RCS-1000-P 3.0
+- Royal Clima RCV 500
 
 ### Air Washers / Humidifiers
 
