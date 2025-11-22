@@ -1146,6 +1146,18 @@
                 }
             }
         },
+            },
+            "fanspeed": {
+                "name": "Fan speed",
+                "state": {
+                    "auto": "Auto",
+                    "low": "Low",
+                    "medium": "Medium",
+                    "high": "High",
+                    "turbo": "Turbo"
+                }
+            }
+        },
         "sensor": {
             "ambient_temperature": {
                 "name": "Ambient temperature"

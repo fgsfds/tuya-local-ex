@@ -5,8 +5,12 @@
 - Tadiran Wind 65/3P
 - Rapid RAM N1 Wi-Fi
 - Royal Clima RCB 80 LUX
-- Deerma DEM-F995W
 - Royal Clima RCS-1000-P 3.0
+
+### Air Washers / Humidifiers
+
+- Deerma DEM-F995W
+- Tuvio Air Washer TAO01DE
 
 ### Water Boilers
 
