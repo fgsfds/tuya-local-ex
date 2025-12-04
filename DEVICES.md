@@ -303,6 +303,7 @@
 - Fanco Eco Silent Deluxe ceiling fan with LED light
 - Fisher F-ERVQ-B150CO2 heat recovery ventilator
 - FlinQ Breeze indoor pedestal fan
+- Funai Fuji ERW-150 Ultimate ventilation fan
 - GHome SW19 ceiling fan and light switch
 - Globe ceiling fans with RGBCW lights (with and without presets)
 - Goldair GCPF315 fan
@@ -457,6 +458,7 @@
 - Inkbird IHC-200 humidity controller
 - Klarta Humea humidifier
 - Kyvol EA200 humidifier
+- Miro Q-Tower humidifier
 - OGACFO LFHM055 humidifier
 - RZTK Aqua Pro humidifier
 - Stadler Form Eva, Karl, Karl Big humidifiers
@@ -529,6 +531,7 @@
 - DTS238-7 3 phase smart meter
 - Dual CT clamp bidirectional meter
 - EARU EAEMP3C-100-TY-W 3 phase bidirectional energy monitoring breaker
+- EARU EAMPDW-TY-63 3-phase energy monitoring breaker
 - EARU EASEM-D 3-phase multi circuit power meter
 - EARU SW RCB, DBN breakers
 - eMylo EAI-90 smart meter
@@ -1028,6 +1031,7 @@ port and password.
 - WellToBe Automatic Pet Feeder (WB S36D)
 - YP pet feeder
 - Yuposl dual-band pet feeder
+- Zedar K1200 cat litter box
 
 ### Remote controllers
 

@@ -282,7 +282,13 @@ class TuyaLocalClimate(TuyaLocalEntity, ClimateEntity):
     def current_temperature(self):
         """Return the current measured temperature."""
         if self._current_temperature_dps:
-            return self._current_temperature_dps.get_value(self._device)
+            temp = self._current_temperature_dps.get_value(self._device)
+            if self._current_temperature_dps.suggested_display_precision is not None:
+                # Round the value to the suggested precision
+                temp = round(
+                    temp, self._current_temperature_dps.suggested_display_precision
+                )
+            return temp
 
     @property
     def target_humidity(self):
