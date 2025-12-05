@@ -77,6 +77,7 @@
 - Wärme Designer wall panel heater
 - WarmeHaus AFD-02-TJ thermostatic towel rail element
 - Wetair WCH-750 heater
+- Zephir ZMW4000V wall heater
 
 ### Air Conditioners / Heat pumps
 
@@ -758,6 +759,7 @@ of device.
 - Gosund SW2 dimmer switch
 - HDMI sync light
 - HDMI TV ambient lighting 65
+- Hombli CCT 2024 Christmas lights
 - iHD001 LED controller
 - Ion LED WiFi dimmer
 - iSparkle Curtain Micro Lights
@@ -1005,6 +1007,7 @@ port and password.
 - Nedis pet feeder
 - Newpet pet feeder
 - Ningbo BF314A camera pet feeder
+- Oneisall PFD-002 Pro IR pet feeder
 - Papifeed pet feeder
 - Petempo PAF-02 pet feeder
 - Petlibro PLAF103 pet feeder

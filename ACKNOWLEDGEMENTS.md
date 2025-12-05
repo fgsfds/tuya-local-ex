@@ -1147,3 +1147,6 @@ Further device support has been made with the assistance of users. Please consid
 - [jaredhobbs](https://github.com/jaredhobbs) for contributing support for TCL AirMax that was merged with Daizuki heatpump.
 - [o-mega](https://github.com/o-mega) for contributing support for EARU EAMPDW-TY-63 3-phase energy monitoring breaker, Funai Fuji ERW-150 Ultimate ventilation fan.
 - [soonbolee](https://github.com/soonbolee) for assisting with support for Miro Q-Tower humidifier.
+- [leoogermenia](https://github.com/leoogermenia) for assisting with support for Zephir ZMW4000V wall heater.
+- [momeedees](https://github.com/momeedees) for assisting with support for Hombli CCT 2024 Christmas lights.
+- [progfou](https://github.com/progfou) for assisting with support for Oneisall PFD-002 Pro IR pet feeder.
