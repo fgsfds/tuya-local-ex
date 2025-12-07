@@ -3,6 +3,9 @@ products:
   - id: rlyxv7pe
     manufacturer: Raykube
     model: A1 Pro Max
+  - id: hc7n0urm
+    manufacturer: Raykube
+    model: A1 Ultra
 entities:
   - entity: lock
     dps:
@@ -22,6 +25,7 @@ entities:
         name: lock_record
       - id: 46
         type: boolean
+        optional: true
         name: lock
       - id: 47
         type: boolean
