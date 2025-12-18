@@ -323,6 +323,7 @@
 - Hunter Pacific 9 speed ceiling fan with light
 - HYD WeAir Plus bladeless fan with heating function
 - Immax Neo Lite Vento ceiling fan with light
+- InTec ceiling fan with light
 - Kavunion C1 100 ventilation fan
 - KCvents VT501-W heat recovery ventilation
 - Klarstein Skyscaper Ice cooling fan
@@ -428,6 +429,7 @@
 - Gologi GO021 dehumidifier
 - Greenmigo Alpha Q25 dehumidifier
 - Honeywell TP(30/50/70) dehumidifiers
+- HTW HTWD020A4 dehumidifier
 - Hyundai Sahara dehumidifier
 - Inkbird IHC-200 humidity controller
 - Inventor Atmosphere XL, Eva Ion Pro, Rise Pro dehumidifiers
