@@ -1171,3 +1171,5 @@ Further device support has been made with the assistance of users. Please consid
 - [a774969](https://github.com/a774969) for assisting with support for NWT WDH-02EM dehumidifier.
 - [nalditopr](https://github.com/nalditopr) for contributing support for Frizzlife LP365P water monitor shut-off valve.
 - [baronorder](https://github.com/baronorder) for contributing support for Advwin 13L humidifier.
+- [pegasusvelata](https://github.com/pegasusvelata) for contributing support for GD2050WIFI aroma diffuser.
+- [nhojt](https://github.com/nhojt) for contributing support for Inkbird INT-12-BW cooking probe thermometer.
