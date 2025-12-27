@@ -7,6 +7,7 @@
 - Andersson GSH heater
 - Arlec 2200W and 2400W panel heaters, CEH243HA ceramic heater
 - Atomi AT1632/AT1635 ceramic heaters
+- Auchsiag 750W/1500W electric fireplace
 - Betterlife BT1500 IR heater
 - Blumfeldt/Klarstein Cosmic Beam Smart 24 infrared radiant heater
 - Breville AirRounder Plus Connect purifier heater
@@ -65,6 +66,7 @@
 - Prosto PTC 2000 heater
 - Purline Hoti M100 heater
 - Quality Heating QH-GD Elegant Series IR panel heaters
+- Rovsun NSC-150-7A2R oil column heater
 - Rumba bathroom heater
 - Semptec ZX7007 infrared heater
 - Sichler ZX-7655/ZX-7656 hybrid infrared convection heater
@@ -192,6 +194,7 @@
 - Sanden GAU-A45HPD WiFi heat pump controller
 - Sime EcoMaxi VB200 heat pump water heater
 - SolarEast (Adlar Castra) Aurora II heat pump
+- Thermann R290 heat pump water heater
 - Thermex IF series V pro and Lima 80V hot water systems
 - Thermoval Aqua TI water heater
 
@@ -460,7 +463,7 @@
 - AlecoAir PU55 Humino humidifier
 - BlitzWolf BW-SH2, BW-SH5 humidifiers
 - Carro VES1011 humidifier
-- Clean Air Optima CA-604B, CA-605B humidifiers
+- Clean Air Optima CA-604B, CA-605B, CA-607B humidifiers
 - Clofte Duo 400 humidifier
 - Eanons QT-JS2014 purifying humidifier
 - Homvana H111S humidifier
@@ -512,7 +515,7 @@
 - Inkbird ISC-007BW smoker fan controller
 - Inkbird sous vide cooker (also supports Silvercrest sous vide sticks)
 - Klarstein Amazonia dishwasher
-- Kogan glass 1.7L smart kettle
+- Kogan glass 1.7L smart kettle (at least 2 different variants)
 - Korex AX-WF306N smart kettle
 - Leoffen LFIM6000 ice cube maker
 - Recteq RT-700, RT-1250, RT-B380X grills

@@ -1170,8 +1170,11 @@ Further device support has been made with the assistance of users. Please consid
 - [UksusoFF](https://github.com/UksusoFF) for contributing support for Zeissler ZSw.1312 water leak detector.
 - [a774969](https://github.com/a774969) for assisting with support for NWT WDH-02EM dehumidifier.
 - [nalditopr](https://github.com/nalditopr) for contributing support for Frizzlife LP365P water monitor shut-off valve.
-- [baronorder](https://github.com/baronorder) for contributing support for Advwin 13L humidifier.
+- [baronorder](https://github.com/baronorder) for contributing support for Advwin 13L humidifier, Kogan KASMCDSKTLA kettle.
 - [pegasusvelata](https://github.com/pegasusvelata) for contributing support for GD2050WIFI aroma diffuser.
 - [nhojt](https://github.com/nhojt) for contributing support for Inkbird INT-12-BW cooking probe thermometer.
 - [GavinIves](https://github.com/GavinIves) for contributing support for Casdon KG1 water dispenser.
-
+- [declan-wade](https://github.com/declan-wade) for contributing support for Thermann R290 water heat pump.
+- [lordp1](https://github.com/lordp1) for assisting with support for Clean Air Optima CA-607B humidifier.
+- [aureli169](https://github.com/aureli169) for contributing support for Auchsiag fireplace.
+- [zhen-zen](https://github.com/zhen-zen) for contributing support for Rovsun oil column heater.
