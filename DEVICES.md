@@ -403,7 +403,7 @@
 - Proscenic A8 and A9 air purifiers
 - Renpho RP-AP001S air purifier
 - Siguro Air Master AP-K50 air purifier
-- Smartmi E1 air purifier
+- Smartmi E1 and P1 air purifiers
 - Soho SO-350WUI Air Purifier
 - Soleusair A02 and A10 air purifiers
 - Stadler Form Roger air purifier
@@ -1011,6 +1011,7 @@ port and password.
 - Doel cat litter box
 - Duoqu Neo-A cat litter box
 - Els Pet Spaceship pet litter box
+- Evergreen Solar bird feeder camera
 - Faroro PF50 pet feeder
 - FeelNeedy P-LFP01 camera pet feeder
 - Fukumaru AF01-W pet feeder
@@ -1085,6 +1086,7 @@ port and password.
 - Holman WX2 dual tap timer
 - Holman WX8 8 sprinkler irrigation controller
 - KRain KRX8 irrigation controller
+- Neo NAS-WV02W water use monitoring valve
 - Neptun Smart water leak control system
 - Qoto 03 smart water valve / sprinkler controller
 - Qoto 05 smart water valve / sprinkler controller
