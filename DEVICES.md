@@ -231,7 +231,7 @@
 - Euroster 4040 Smart thermostat
 - EZAIoT R9Lite thermostat
 - EZAIoT thermostat smartplug
-- Garza thermostat
+- Garza Aspen and (unknown model) thermostats
 - Herschel XLS T-MS mains and T-PL plugin thermostats
 - Hysen HY02TP, HY08ACF, HY08WE-2, HY101RF thermostats
 - Inkbird IPT-2CH v2.0 reptile thermostat
@@ -391,7 +391,7 @@
 - Honeywell Air Touch P2 Air Purifier
 - Hosome air purifier
 - iHunt 400m³/h and 50m³/h air purifiers
-- Jafanda JF260S air purifier
+- Jafanda JF260S and JF500 air purifiers
 - Kilo Plus air purifier
 - Klarta Stor 2 and Forste 4 air purifiers
 - Kogan 2S and 5 pro air purifiers
@@ -1013,6 +1013,7 @@ port and password.
 - Els Pet Spaceship pet litter box
 - Evergreen Solar bird feeder camera
 - Faroro PF50 pet feeder
+- Faroro TD20 pet treat camera
 - FeelNeedy P-LFP01 camera pet feeder
 - Fukumaru AF01-W pet feeder
 - Hapaw pet fountain
