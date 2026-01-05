@@ -1,12 +1,10 @@
 from homeassistant.components.binary_sensor import BinarySensorDeviceClass
 from homeassistant.components.climate.const import ClimateEntityFeature, HVACMode
-from homeassistant.components.number import NumberDeviceClass
 from homeassistant.components.sensor import SensorDeviceClass
 from homeassistant.const import (
     PERCENTAGE,
     PRECISION_WHOLE,
     UnitOfTemperature,
-    UnitOfTime,
 )
 
 from ..const import GPPH_HEATER_PAYLOAD
@@ -15,7 +13,6 @@ from ..mixins.binary_sensor import BasicBinarySensorTests
 from ..mixins.climate import TargetTemperatureTests
 from ..mixins.light import BasicLightTests
 from ..mixins.lock import BasicLockTests
-from ..mixins.number import BasicNumberTests
 from ..mixins.sensor import BasicSensorTests
 from .base_device_tests import TuyaDeviceTestCase
 
@@ -37,7 +34,6 @@ class TestGoldairHeater(
     BasicBinarySensorTests,
     BasicLightTests,
     BasicLockTests,
-    BasicNumberTests,
     BasicSensorTests,
     TargetTemperatureTests,
     TuyaDeviceTestCase,
@@ -55,14 +51,6 @@ class TestGoldairHeater(
         )
         self.setUpBasicLight(LIGHT_DPS, self.entities.get("light_display"))
         self.setUpBasicLock(LOCK_DPS, self.entities.get("lock_child_lock"))
-        self.setUpBasicNumber(
-            TIMER_DPS,
-            self.entities.get("number_timer"),
-            max=1440,
-            step=60,
-            device_class=NumberDeviceClass.DURATION,
-            unit=UnitOfTime.MINUTES,
-        )
         self.setUpBasicSensor(
             POWERLEVEL_DPS,
             self.entities.get("sensor_power_level"),
@@ -81,7 +69,6 @@ class TestGoldairHeater(
                 "binary_sensor_problem",
                 "light_display",
                 "lock_child_lock",
-                "number_timer",
                 "sensor_power_level",
                 "time_timer",
             ]

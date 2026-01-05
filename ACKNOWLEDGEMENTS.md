@@ -1170,7 +1170,7 @@ Further device support has been made with the assistance of users. Please consid
 - [UksusoFF](https://github.com/UksusoFF) for contributing support for Zeissler ZSw.1312 water leak detector.
 - [a774969](https://github.com/a774969) for assisting with support for NWT WDH-02EM dehumidifier.
 - [nalditopr](https://github.com/nalditopr) for contributing support for Frizzlife LP365P water monitor shut-off valve.
-- [baronorder](https://github.com/baronorder) for contributing support for Advwin 13L humidifier, Kogan KASMCDSKTLA kettle.
+- [baronorder](https://github.com/baronorder) for contributing support for Advwin 13L humidifier, Kogan KASMCDSKTLA kettle and improvements to masked dps handling.
 - [pegasusvelata](https://github.com/pegasusvelata) for contributing support for GD2050WIFI aroma diffuser.
 - [nhojt](https://github.com/nhojt) for contributing support for Inkbird INT-12-BW cooking probe thermometer.
 - [GavinIves](https://github.com/GavinIves) for contributing support for Casdon KG1 water dispenser.
@@ -1190,3 +1190,6 @@ Further device support has been made with the assistance of users. Please consid
 - [domwrap](https://github.com/domwrap) for contributing support for Jafanda JF500 air purifier.
 - [jarivanb](https://github.com/jarivanb) for contributing improvements to Steinbach Solid 4.3 heat pump.
 - [10-p](https://github.com/10-p) for assisting with support for Garza Aspen boiler thermostat.
+- [augs](https://github.com/augs) for contributing support for Faroro TD20 Pet Treat Camera.
+- [jonathanm3](https://github.com/jonathanm3) for contributing support for PNI CT-36 Pro thermostat.
+- [J1mooo](https://github.com/J1mooo) for assisting with support for Immax Neo Lite 3-phase 22kW EV charger.
