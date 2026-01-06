@@ -16,6 +16,7 @@
 - Caldo Up T fan heater
 - Calex Smart Convector heater
 - Cecotec ReadyWarm 8400 Fan and 2000 Max Box Ceramic heaters
+- Cixi Jemell PTC-1919 PTC heater
 - Cleverio AR10/AR20 panel heaters
 - Create Warm Clear vertical heater
 - Create Warm Towel Advance bathroom heater
@@ -445,6 +446,7 @@
 - Klarstein DryFy Pro Connect dehumidifier
 - Kogan SmarterHome 7L desiccant dehumidifier
 - Luko dehumidifier
+- Meaco DD8L Pro dehumidifier
 - MeacoDry Arete Two 10L dehumidifier
 - Morris MDB-12160HIW dehumidifier
 - NWT WDH-02EM dehumidifier
