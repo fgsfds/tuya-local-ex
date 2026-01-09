@@ -193,6 +193,7 @@
 - Modena ES-15-SKY water heater
 - Neopower Black Diamond all-in-one heat pump water heater
 - Nulite NL-B245 monobloc heat pump
+- Oekoboiler RS series heat pump water heater
 - Powerworld PW040, PWS58330, PWS58410 air+water heat pumps
 - Rinnai Enviroflo heat pump water heater
 - Sanden GAU-A45HPD WiFi heat pump controller
@@ -307,11 +308,13 @@
 - Deta fan controllers (6914HA Series 2 and 3)
 - Djive ARC humidifying fan
 - dLuft Smart Flow ventilator fan
+- Dometek Diamond ceiling fan with light
 - Dream Maker Feel DM01 fan
 - Duux Whisper Flex pedestal fan
 - Duux Whisper Flex Ultimate
 - Dyras TF-16WIFI tower fan
 - Eberg Fyn tower fan
+- Efenz Kith ceiling fan with light
 - Eglo 5 speed + sleep ceiling fan
 - eLinkSmart KH-SY2626 pedestal fan
 - Fanco Eco Silent Deluxe ceiling fan with LED light
