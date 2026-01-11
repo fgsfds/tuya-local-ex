@@ -941,7 +941,7 @@ Further device support has been made with the assistance of users. Please consid
 - [alexeytm82](https://github.com/alexeytm82) for contributing support for MakeSkyBlue MPPT solar charger.
 - [com6056](https://github.com/com6056) for assisting with support for Treatlife DS03 (v2) ceiling fan and light.
 - [georgekucher](https://github.com/georgekucher) for contributing improvements to Feyree portable EV charger.
-- [shopsD](https://github.com/shopsD) for assisting with support for Dienmern DM165A noise meter, Chameleon TCG tower fan.
+- [shopsD](https://github.com/shopsD) for assisting with support for Dienmern DM165A noise meter, Chameleon TCG tower fan, EcoNour 42" tower fan.
 - [dwd1](https://github.com/dwd1) for assisting with support for RH-PD10 peehole doorbell camera.
 - [thd6n75](https://github.com/thd6n75) for contributing support for Korex AX-WF306N kettle.
 - [1B9-MasterChief](https://github.com/1B9-MasterChief) for contributing support for Sonnenkönig Fresco 140/180 air conditioner.
@@ -1202,3 +1202,8 @@ Further device support has been made with the assistance of users. Please consid
 - [SimKaiLong](https://github.com/SimKaiLong) for contributing support for Efenz Kith ceiling fan with light.
 - [kabous1](https://github.com/kabous1) for contributing support for GMC AP-300 air purifier (merged with Truelife P3).
 - [IngmarStein](https://github.com/IngmarStein) for contributing support for Oekoboiler RS series heat pump water heater.
+- [hally0](https://github.com/hally0) for contributing support for Elko EKO07262 thermostat.
+- [Smalle007](https://github.com/Smalle007) for contributing support for Stadler Form Noah humidifier.
+- [pmchAR](https://github.com/pmchAR) for contributing support for Kendal KVT-Touchtower pedestal fan.
+- [kensru](https://github.com/kensru) for assisting with support for Aquaviva AVH15S combo heat pump.
+- [square-spade](https://github.com/square-spade) for contributing improvements for BLE Pulido P13 lock.

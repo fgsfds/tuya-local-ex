@@ -176,6 +176,7 @@
 
 - Apricus heat pump water heater
 - Aquatech Rapid/X6 heat pump water heater
+- Aquaviva AVH15S combo air-water heat pump
 - Arçelik AHPH-MM series combo air-water heat pump
 - Axen KS-100W/EN8BP combo heat pump (rebranded as Arielli)
 - Deakon EVI DC inverter heat pump
@@ -223,6 +224,7 @@
 - Drexma WiStat ET7AW thermostat
 - DunWore F60 floor heating thermostat
 - EARU Electronic K6H-3A-W thermostat
+- Elko EKO07262 thermostat
 - EleChico CCST6001 thermostat
 - Emmeti Zona thermostat
 - Essentials Wall thermostat
@@ -314,6 +316,7 @@
 - Duux Whisper Flex Ultimate
 - Dyras TF-16WIFI tower fan
 - Eberg Fyn tower fan
+- EcoNour 42" tower fan
 - Efenz Kith ceiling fan with light
 - Eglo 5 speed + sleep ceiling fan
 - eLinkSmart KH-SY2626 pedestal fan
@@ -340,6 +343,7 @@
 - InTec ceiling fan with light
 - Kavunion C1 100 ventilation fan
 - KCvents VT501-W heat recovery ventilation
+- Kendal KVT-Touchtower pedestal fan
 - Klarstein Airfold Smart ceiling fan with light
 - Klarstein Skyscaper Ice cooling fan
 - Klarstein Skytower Grand Smart cooling fan
@@ -487,7 +491,7 @@
 - Miro Q-Tower humidifier
 - OGACFO LFHM055 humidifier
 - RZTK Aqua Pro humidifier
-- Stadler Form Eva, Karl, Karl Big humidifiers
+- Stadler Form Eva, Karl, Karl Big, Noah humidifiers
 - Tesla Smart humidifier
 - Venta AH510 Original Connect humidifier
 - Wetair WAW-H1210LW humidifier
