@@ -17,6 +17,7 @@
 ### Water Boilers
 
 - Termica Wi-Fi Boiler Controller
+- Thermex Bono 50 WiFi
 
 ### Kitchen Appliances
 
