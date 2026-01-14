@@ -10,3 +10,4 @@
 - [sergeybelozorov](https://github.com/sergeybelozorov) for Tuvio Air Washer TAO01DE support.
 - [Anzic23](https://github.com/Anzic23) for Royal Clima RCV 500 support.
 - [levikinva](https://github.com/levikinva) for Tion Breezer Bio X support.
+- [MilkyCode13](https://github.com/MilkyCode13) for Thermex Bono 50 WiFi support.
