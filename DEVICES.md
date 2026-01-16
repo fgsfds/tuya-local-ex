@@ -576,6 +576,7 @@
 - Ketotek KTEM06pro energy meter
 - MatSee Plus bidirectional two channel clamp meter (multiple variants)
 - Meterk single phase clamp meter
+- Ourtop ATMS100133 energy meter
 - Parkside PG/PMW-300 solar inverter
 - PC311-TY 2 phase power clamp meter
 - PC321-TY 3 phase power clamp meter
@@ -1294,6 +1295,7 @@ entity types as sub devices.
 - PY321-Z-TY energy meter
 - Smart air box BR V2
 - Temperature and humidity sensor with alarm feature
+- TH02 Z3-P3Z temperature and humidity sensor
 - WL-898WZ water leak sensor
 - WL-RTCZ-05Z human presence sensor
 - Zemismart SPM01 energy meter
