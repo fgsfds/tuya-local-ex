@@ -10,6 +10,7 @@
 - Auchsiag 750W/1500W electric fireplace
 - Betterlife BT1500 IR heater
 - Blumfeldt/Klarstein Cosmic Beam Smart 24 infrared radiant heater
+- Brandon Basics towel warmer
 - Breville AirRounder Plus Connect purifier heater
 - Bonaire HPC5200020 electric heater
 - BVF CP1 heater
@@ -408,6 +409,7 @@
 - Klarta Stor 2 and Forste 4 air purifiers
 - Kogan 2S and 5 pro air purifiers
 - Lifubide X600 air purifier
+- Meaco Clean CA-HEPA air purifier
 - Morento HY4866-WF and MR7566-WF air purifiers
 - NAC AP470 air purifier
 - NX-100AP Rapid air purifier
@@ -922,6 +924,7 @@ of device.
 - OPK K2 vacuum cleaner
 - Parkside PPWD 30 A1 workshop vacuum
 - Proscenic M9, 850T vacuum cleaners
+- Realme TechLife robot vacuum cleaner
 - Rinkmo D2 vacuum cleaner
 - Tefal X-plorer serie 75 animal vacuum
 - Tesvor S6 vacuum cleaner with mop
