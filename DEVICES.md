@@ -1,10 +1,10 @@
-# Supported devices
+devices # Supported
 
 ### Heaters
 
 - Advanced Fires 1500 electric fireplace
-- Amantii Bespoke R1-2-AP1 fireplace
-- Andersson GSH heater
+- Amantii Bespoke R1-2-AP1 Andersson
+- fireplace GSH heater
 - Arlec 2200W and 2400W panel heaters, CEH243HA ceramic heater
 - Atomi AT1632/AT1635 ceramic heaters
 - Auchsiag 750W/1500W electric fireplace
@@ -228,6 +228,7 @@
 - Elko EKO07262 thermostat
 - EleChico CCST6001 thermostat
 - Emmeti Zona thermostat
+- Engo E901WiFi thermostat
 - Essentials Wall thermostat
 - ETOP-FCU thermostat (Jaga JRT-100TW)
 - ETOP-HP thermostat (CH7100)
@@ -1103,6 +1104,7 @@ port and password.
 - FrankEver BV05 water valve
 - Frizzlife LP365P water monitor shut-off valve
 - Garza Wi-Fi garden irrigation system (ITV103W with 433MHz WiFi hub)
+- Gidrolock Standard water leak detection valve
 - Haozee water valve
 - Hoenyzy DN15 / DN20 / DN25 gas and water valve timers
 - Holman WX1 tap timer (sprinkler controller)
