@@ -327,12 +327,13 @@
             }
         },
         "humidifier": {
-            "dehumidifier": {
+            "extended": {
                 "state_attributes": {
                     "mode": {
                         "state": {
                             "laundry": "Сушка одежды",
-                            "purify": "Очистка"
+                            "purify": "Очистка",
+                            "continuous": "Непрерывный"
                         }
                     }
                 }
@@ -530,6 +531,7 @@
                     "chinese": "中文",
                     "chinese_traditional": "中文(繁體)",
                     "english": "English",
+                    "english_child": "English (Child)",
                     "french": "Français",
                     "german": "Deutsch",
                     "italian": "Italiano",
@@ -962,6 +964,9 @@
                     "missing": "Отсутствует",
                     "formatting": "Форматирование",
                     "unformatted": "Не отформатировано",
+                    "failed": "Не удалось",
+                    "replying": "Ответ",
+                    "playback": "Воспроизведение",
                     "maintenance_required": "Требуется техническое обслуживание",
                     "dry": "Сухой",
                     "comfortable": "Комфортный",

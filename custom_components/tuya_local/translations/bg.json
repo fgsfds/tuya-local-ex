@@ -327,12 +327,13 @@
             }
         },
         "humidifier": {
-            "dehumidifier": {
+            "extended": {
                 "state_attributes": {
                     "mode": {
                         "state": {
                             "laundry": "Сухо пране",
-                            "purify": "Пречистете"
+                            "purify": "Пречистете",
+                            "continuous": "Непрекъснато"
                         }
                     }
                 }
@@ -530,6 +531,7 @@
                     "chinese": "中文",
                     "chinese_traditional": "中文(繁體)",
                     "english": "English",
+                    "english_child": "English (Child)",
                     "french": "Français",
                     "german": "Deutsch",
                     "italian": "Italiano",
@@ -953,6 +955,9 @@
                     "missing": "Липсва",
                     "formatting": "Форматиране",
                     "unformatted": "Неформатиран",
+                    "failed": "Неуспешен",
+                    "replying": "Отговаряне",
+                    "playback": "Възпроизвеждане",
                     "maintenance_required": "Изисква се поддръжка",
                     "dry": "Сухо",
                     "comfortable": "Удобно",

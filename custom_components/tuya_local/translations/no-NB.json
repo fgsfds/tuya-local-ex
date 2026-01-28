@@ -328,12 +328,13 @@
             }
         },
         "humidifier": {
-            "dehumidifier": {
+            "extended": {
                 "state_attributes": {
                     "mode": {
                         "state": {
                             "laundry": "Tørk klær",
-                            "purify": "Rens"
+                            "purify": "Rens",
+                            "continuous": "Kontinuerlig"
                         }
                     }
                 }
@@ -531,6 +532,7 @@
                     "chinese": "中文",
                     "chinese_traditional": "中文(繁體)",
                     "english": "English",
+                    "english_child": "English (Child)",
                     "french": "Français",
                     "german": "Deutsch",
                     "italian": "Italiano",
@@ -953,6 +955,9 @@
                     "missing": "Manglende",
                     "formatting": "Formatering",
                     "unformatted": "Uformaterte",
+                    "failed": "Mislyktes",
+                    "replying": "Svarer",
+                    "playback": "Avspilling",
                     "maintenance_required": "Vedlikehold kreves",
                     "dry": "Tørr",
                     "comfortable": "Komfortabel",

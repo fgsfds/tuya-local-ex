@@ -327,12 +327,13 @@
             }
         },
         "humidifier": {
-            "dehumidifier": {
+            "extended": {
                 "state_attributes": {
                     "mode": {
                         "state": {
                             "laundry": "Στέγνωμα ρούχων",
-                            "purify": "Καθαρισμός"
+                            "purify": "Καθαρισμός",
+                            "continuous": "Συνεχής"
                         }
                     }
                 }
@@ -530,6 +531,7 @@
                     "chinese": "中文",
                     "chinese_traditional": "中文(繁體)",
                     "english": "English",
+                    "english_child": "English (Child)",
                     "french": "Français",
                     "german": "Deutsch",
                     "italian": "Italiano",
@@ -952,6 +954,9 @@
                     "missing": "Ελλιπές",
                     "formatting": "Μορφοποίηση",
                     "unformatted": "Μη μορφοποιημένο",
+                    "failed": "Απέτυχε",
+                    "replying": "Απάντηση",
+                    "playback": "Αναπαραγωγή",
                     "maintenance_required": "Απαιτείται συντήρηση",
                     "dry": "Στεγνό",
                     "comfortable": "Άνετο",
@@ -1015,7 +1020,7 @@
             "power_x": {
                 "name": "Ισχύς {x}"
             },
-            "filter_ilfe": {
+            "filter_life": {
                 "name": "Διάρκεια φίλτρου"
             }
         },

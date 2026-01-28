@@ -1,15 +1,16 @@
-# Supported devices
+devices # Supported
 
 ### Heaters
 
 - Advanced Fires 1500 electric fireplace
-- Amantii Bespoke R1-2-AP1 fireplace
-- Andersson GSH heater
+- Amantii Bespoke R1-2-AP1 Andersson
+- fireplace GSH heater
 - Arlec 2200W and 2400W panel heaters, CEH243HA ceramic heater
 - Atomi AT1632/AT1635 ceramic heaters
 - Auchsiag 750W/1500W electric fireplace
 - Betterlife BT1500 IR heater
 - Blumfeldt/Klarstein Cosmic Beam Smart 24 infrared radiant heater
+- Brandon Basics towel warmer
 - Breville AirRounder Plus Connect purifier heater
 - Bonaire HPC5200020 electric heater
 - BVF CP1 heater
@@ -90,6 +91,7 @@
 - Arlec PA1123BKHA portable air conditioner
 - Ballu Aura air conditioner
 - Be Cool BC14KL2101F
+- Brokton BRST12 air conditioner
 - Carson CB PA280
 - Cecotec ForceClima Soundless portable air conditioner
 - Confortotal CICON242 mini split air conditioner
@@ -159,12 +161,14 @@
 - Madimack Eco, Elite V2,V3,V4 and other model pool heat pumps
 - Poolex Silverline, Q-7, Q-line, Arctic, Vertigo, Ice Spa, Mag FI heat pumps
 - Poolsana InverPower Next pool heat pump
+- Poolstyle PSL-150-00xx pool heat pump
 - Pool Systems IPS Pro pool heat pump (also Fairland Inver-X)
 - Pro-Energy PE08 pool heat pump
 - Remora pool heat pump
 - Sibrape CBC-Pool BP heat pump
 - Steinbach Solid 4.3 and Silent Mini pool heat pumps
 - Swim & Fun InverBoost pool heat pump
+- Waterco Electroheat ECO-V pool heat pump
 - W'eau pool heat pump (simple model and a more complex 13kW model)
 
 - these seem to use a small number of common controllers with minor variations, and many other Pool heat pumps will work using the above configurations.
@@ -227,6 +231,7 @@
 - Elko EKO07262 thermostat
 - EleChico CCST6001 thermostat
 - Emmeti Zona thermostat
+- Engo E901WiFi thermostat
 - Essentials Wall thermostat
 - ETOP-FCU thermostat (Jaga JRT-100TW)
 - ETOP-HP thermostat (CH7100)
@@ -369,6 +374,7 @@
 - Princess Smart air cooler
 - Princess Smart Tower fan
 - Prism+ Oasis Pro ceiling fan with RGBCCT light
+- Pro Breeze AirFlo 43" pedestal fan
 - Reiga ceiling fans with and without light
 - Riyue Box 3 fan with light
 - Roomratv ceiling fan with light
@@ -408,6 +414,7 @@
 - Klarta Stor 2 and Forste 4 air purifiers
 - Kogan 2S and 5 pro air purifiers
 - Lifubide X600 air purifier
+- Meaco Clean CA-HEPA air purifier
 - Morento HY4866-WF and MR7566-WF air purifiers
 - NAC AP470 air purifier
 - NX-100AP Rapid air purifier
@@ -442,7 +449,7 @@
 - ElectriQ CD12PRO-LE, CD12PW, CD20PRO-LE-V2/V4, CD25PRO-LE-V2 dehumidifiers
 - ElectriQ DESD9LW dehumidifier (two variants)
 - Electriq PD45E dehumidifier
-- Eeese Adam, Anna, Carl, Emil, Otto dehumidifiers
+- Eeese Adam, Anna, Carl, Emil, Otto, Thor dehumidifiers
 - Emerio DH-129238.1 dehumidifier
 - Goldair GPDH340, GPDH420 dehumidifiers
 - Gologi GO021 dehumidifier
@@ -485,6 +492,7 @@
 - Clean Air Optima CA-604B, CA-605B, CA-607B humidifiers
 - Clofte Duo 400 humidifier
 - Eanons QT-JS2014 purifying humidifier
+- Eberg HUMI H03G1 humidifier
 - Homvana H111S humidifier
 - Inkbird IHC-200 humidity controller
 - Klarta Humea and Humea Grande humidifiers
@@ -576,6 +584,7 @@
 - Ketotek KTEM06pro energy meter
 - MatSee Plus bidirectional two channel clamp meter (multiple variants)
 - Meterk single phase clamp meter
+- Ourtop ATMS100133 energy meter
 - Parkside PG/PMW-300 solar inverter
 - PC311-TY 2 phase power clamp meter
 - PC321-TY 3 phase power clamp meter
@@ -685,6 +694,7 @@ the best option.
 - Logicom Strippy 4 way power strip with USB
 - Loratap RR400W-V2 relay switch
 - Loratap RR620W-JL dual relay switch
+- M604 quad wall switch
 - Makegood double power point (sold under AusElectronicsDirect, Cleverlife, Kogan, Ozsmartthings and other brands)
 - MakeGood double switch with timers and power monitoring on whole device
 - Minoston 6 preset timer switch
@@ -921,6 +931,7 @@ of device.
 - OPK K2 vacuum cleaner
 - Parkside PPWD 30 A1 workshop vacuum
 - Proscenic M9, 850T vacuum cleaners
+- Realme TechLife robot vacuum cleaner
 - Rinkmo D2 vacuum cleaner
 - Tefal X-plorer serie 75 animal vacuum
 - Tesvor S6 vacuum cleaner with mop
@@ -1076,6 +1087,7 @@ port and password.
 - V330L pet feeder
 - Vevor 76L self-cleaning litter box
 - WellToBe Automatic Pet Feeder (WB S36D)
+- Xtuos dual pet feeder
 - YP pet feeder
 - Yuposl dual-band pet feeder
 - Zedar K1200 cat litter box
@@ -1099,6 +1111,7 @@ port and password.
 - FrankEver BV05 water valve
 - Frizzlife LP365P water monitor shut-off valve
 - Garza Wi-Fi garden irrigation system (ITV103W with 433MHz WiFi hub)
+- Gidrolock Standard water leak detection valve
 - Haozee water valve
 - Hoenyzy DN15 / DN20 / DN25 gas and water valve timers
 - Holman WX1 tap timer (sprinkler controller)
@@ -1106,7 +1119,7 @@ port and password.
 - Holman WX8 8 sprinkler irrigation controller
 - KRain KRX8 irrigation controller
 - Neo NAS-WV02W water use monitoring valve
-- Neptun Smart water leak control system
+- Neptun Smart and Smart+ water leak control systems
 - Qoto 03 smart water valve / sprinkler controller
 - Qoto 05 smart water valve / sprinkler controller
 - SH07-8 / SH07S-TY smart sprinkler controller (sold as Aquarobo, Leictory LK06 and other brands)
@@ -1140,6 +1153,7 @@ port and password.
 - EM3390TF weather station (tested with Viflykoo branded device, probably identical to the same model number branded as Uzoli, Jely and others)
 - Emax EM3378 Weather Station (selling as Hiper P1 and other rebrands)
 - EPT ultrasonic 3m tank level sensor
+- Eureka ERK-S62 adjustable desk
 - Goldair Platinum SleepSmart electric blanket
 - GratKit filament dryer
 - GZAIR radon gas detector
@@ -1154,6 +1168,7 @@ port and password.
 - idoo Smart Bloom 8 hydroponic system
 - Immax Neo Lite 7-in-1 weather station
 - Inkbird PTH-9CW air quality monitor
+- Kishin BS-DW002 motion sensor (sold under various brands)
 - KKMoon 7in1 air quality monitor
 - Kogan bidet toilet seat
 - Kogan KAWHTNOSLPA white noise sleep aid
@@ -1172,6 +1187,7 @@ port and password.
 - Mustool MT15/MT29 air quality box
 - Nedis WIFIPD10WT pill dispenser
 - Nedis WIFISA10CWT air quality monitor
+- Palicy EC Pro 4 pool chlorinator
 - PGST PA-010 indoor temperature and humidity sensor
 - PH-W218 water quality monitor
 - Pinjia PJ3101A presence sensor
@@ -1272,6 +1288,7 @@ entity types as sub devices.
 
 - Aubess temperature and humidity sensor
 - Avatto TRV06 radiator valve (also sold branded as Thaleos)
+- Avatto ZWT198 thermostat
 - Generic Zigbee Door Sensor
 - Haozee RB-SRAIN01 solar rain sensor
 - Haozee ZG-302ZM mmWave presence dual light switch
@@ -1291,8 +1308,10 @@ entity types as sub devices.
 - Nedis ZBSC10WT temperature and humidity sensor
 - Neo Siren Alarm 2
 - PY321-Z-TY energy meter
+- RTI-Tek T5Z thermostat
 - Smart air box BR V2
 - Temperature and humidity sensor with alarm feature
+- TH02 Z3-P3Z temperature and humidity sensor
 - WL-898WZ water leak sensor
 - WL-RTCZ-05Z human presence sensor
 - Zemismart SPM01 energy meter

@@ -327,12 +327,13 @@
             }
         },
         "humidifier": {
-            "dehumidifier": {
+            "extended": {
                 "state_attributes": {
                     "mode": {
                         "state": {
                             "laundry": "洗濯乾燥",
-                            "purify": "浄化"
+                            "purify": "浄化",
+                            "continuous": "連続"
                         }
                     }
                 }
@@ -530,6 +531,7 @@
                     "chinese": "中文",
                     "chinese_traditional": "中文(繁體)",
                     "english": "English",
+                    "english_child": "English (Child)",
                     "french": "Français",
                     "german": "Deutsch",
                     "italian": "Italiano",
@@ -952,6 +954,9 @@
                     "missing": "欠落",
                     "formatting": "フォーマット中",
                     "unformatted": "未フォーマット",
+                    "failed": "失敗",
+                    "replying": "返信中",
+                    "playnack": "再生",
                     "maintenance_required": "メンテナンス必要",
                     "dry": "乾燥",
                     "comfortable": "快適",

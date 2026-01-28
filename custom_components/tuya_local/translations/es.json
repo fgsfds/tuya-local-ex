@@ -327,12 +327,13 @@
             }
         },
         "humidifier": {
-            "dehumidifier": {
+            "extended": {
                 "state_attributes": {
                     "mode": {
                         "state": {
                             "laundry": "Ropa seca",
-                            "purify": "Purificar"
+                            "purify": "Purificar",
+                            "continuous": "Continuo"
                         }
                     }
                 }
@@ -530,6 +531,7 @@
                     "chinese": "中文",
                     "chinese_traditional": "中文(繁體)",
                     "english": "English",
+                    "english_child": "English (Child)",
                     "french": "Français",
                     "german": "Deutsch",
                     "italian": "Italiano",
@@ -952,6 +954,9 @@
                     "missing": "Faltante",
                     "formatting": "Formateando",
                     "unformatted": "Sin formatear",
+                    "failed": "Fallido",
+                    "replying": "Respondiendo",
+                    "playback": "Reproduciendo",
                     "maintenance_required": "Mantenimiento requerido",
                     "dry": "Seco",
                     "comfortable": "Cómodo",

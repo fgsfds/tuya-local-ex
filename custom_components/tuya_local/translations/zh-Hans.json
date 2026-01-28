@@ -327,12 +327,13 @@
             }
         },
         "humidifier": {
-            "dehumidifier": {
+            "extended": {
                 "state_attributes": {
                     "mode": {
                         "state": {
                             "laundry": "烘干衣物",
-                            "purify": "净化"
+                            "purify": "净化",
+                            "continuous": "连续"
                         }
                     }
                 }
@@ -530,6 +531,7 @@
                     "chinese": "中文",
                     "chinese_traditional": "中文(繁體)",
                     "english": "English",
+                    "english_child": "English (Child)",
                     "french": "Français",
                     "german": "Deutsch",
                     "italian": "Italiano",
@@ -952,6 +954,9 @@
                     "missing": "缺失",
                     "formatting": "格式化中",
                     "unformatted": "未格式化",
+                    "failed": "失败",
+                    "replying": "回复中",
+                    "playback": "回放中",
                     "maintenance_required": "需要维护",
                     "dry": "干燥",
                     "comfortable": "舒适",

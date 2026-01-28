@@ -330,12 +330,13 @@
             }
         },
         "humidifier": {
-            "dehumidifier": {
+            "extended": {
                 "state_attributes": {
                     "mode": {
                         "state": {
                             "laundry": "خشک کپڑے",
-                            "purify": "پاک کریں۔"
+                            "purify": "پاک کریں۔",
+                            "continuous": "مسلسل"
                         }
                     }
                 }
@@ -533,6 +534,7 @@
                     "chinese": "中文",
                     "chinese_traditional": "中文(繁體)",
                     "english": "English",
+                    "english_child": "English (Child)",
                     "french": "Français",
                     "german": "Deutsch",
                     "italian": "Italiano",
@@ -955,6 +957,9 @@
                     "missing": "غائب",
                     "formatting": "فارمیٹنگ",
                     "unformatted": "غیر شکل بند",
+                    "failed": "ناکام",
+                    "replying": "جواب دے رہا ہے",
+                    "playback": "پلے بیک",
                     "maintenance_required": "مینٹیننس کی ضرورت ہے",
                     "dry": "خشک",
                     "comfortable": "آرام دہ",
