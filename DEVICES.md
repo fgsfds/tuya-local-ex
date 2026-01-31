@@ -94,6 +94,7 @@ devices # Supported
 - Brokton BRST12 air conditioner
 - Carson CB PA280
 - Cecotec ForceClima Soundless portable air conditioner
+- Chiltrix CX50 and CX35
 - Confortotal CICON242 mini split air conditioner
 - Cooper&Hunter Nordic Evo Ng
 - Costway portable air conditioner
@@ -183,6 +184,7 @@ devices # Supported
 - Aquaviva AVH15S combo air-water heat pump
 - Arçelik AHPH-MM series combo air-water heat pump
 - Axen KS-100W/EN8BP combo heat pump (rebranded as Arielli)
+- Chiltrix CX50 combo heat pump
 - Deakon EVI DC inverter heat pump
 - EMS Thermal 200L domestic heat pump hot water system
 - Ferroli Titano Twin water heater
@@ -424,7 +426,8 @@ devices # Supported
 - Siguro Air Master AP-K50 air purifier
 - Smartmi E1 and P1 air purifiers
 - Soho SO-350WUI Air Purifier
-- Soleusair A02 and A10 air purifiers
+- Soleusair A02 and A10 air purifiers
+
 - Stadler Form Roger air purifier
 - Tesla Smart S300, Pro and Mini air purifiers
 - TrueLife P3 and P7 air purifiers
