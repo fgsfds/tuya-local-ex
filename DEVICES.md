@@ -494,10 +494,12 @@ devices # Supported
 - Advwin 13L humidifier
 - airx H8 humidifier
 - AlecoAir PU55 Humino humidifier
+- Arida Eva humidifier
 - BlitzWolf BW-SH2, BW-SH5 humidifiers
 - Carro VES1011 humidifier
 - Clean Air Optima CA-604B, CA-605B, CA-607B humidifiers
 - Clofte Duo 400 humidifier
+- Duux Beam 2 humidifier
 - Eanons QT-JS2014 purifying humidifier
 - Eberg HUMI H03G1 humidifier
 - Homvana H111S humidifier
@@ -511,7 +513,7 @@ devices # Supported
 - Tesla Smart humidifier
 - Venta AH510 Original Connect humidifier
 - Wetair WAW-H1210LW humidifier
-- Wilfa Haze HU400BC humidifier
+- Wilfa Haze HU-400BC and Moist C HU-430CW humidifiers
 
 ### Aroma diffusers
 
