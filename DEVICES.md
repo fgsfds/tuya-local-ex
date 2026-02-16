@@ -924,7 +924,7 @@ of device.
 
 - Abir X8 vacuum cleaner
 - Airrobo P20 vacuum cleaner
-- Cecotec Conga 1970 and X70 vacuum cleaners
+- Cecotec Conga 1970, X70, Z100 vacuum cleaners
 - iHome Autoac Nova vacuum cleaner
 - ILIFE V20 and A30 pro vacuum cleaners
 - Kabum Smart 500, 700 vacuum cleaners
@@ -1049,6 +1049,7 @@ port and password.
 - Cleverio PF100 pet feeder
 - Doel cat litter box
 - Duoqu Neo-A cat litter box
+- Dxophiex fish feeder
 - Els Pet Spaceship pet litter box
 - Evergreen Solar bird feeder camera
 - Faroro PF50 pet feeder
@@ -1098,6 +1099,7 @@ port and password.
 - Vevor 76L self-cleaning litter box
 - WellToBe Automatic Pet Feeder (WB S36D)
 - Xtuos dual pet feeder
+- Yakry camera pet feeder
 - YP pet feeder
 - Yuposl dual-band pet feeder
 - Zedar K1200 cat litter box
