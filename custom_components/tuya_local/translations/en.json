@@ -1073,6 +1073,9 @@
             "sleep": {
                 "name": "Sleep"
             },
+            "sound": {
+                "name": "Sound"
+            },
             "switch_x": {
                 "name": "Switch {x}"
             },
