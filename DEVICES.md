@@ -8,6 +8,7 @@ devices # Supported
 - Arlec 2200W and 2400W panel heaters, CEH243HA ceramic heater
 - Atomi AT1632/AT1635 ceramic heaters
 - Auchsiag 750W/1500W electric fireplace
+- Bestherm Nessa Connect panel heater
 - Betterlife BT1500 IR heater
 - Blumfeldt/Klarstein Cosmic Beam Smart 24 infrared radiant heater
 - Brandon Basics towel warmer
@@ -334,6 +335,7 @@ devices # Supported
 - Eglo 5 speed + sleep ceiling fan
 - eLinkSmart KH-SY2626 pedestal fan
 - Fanco Eco Silent Deluxe ceiling fan with LED light
+- Fanforce ceiling fan with light
 - Fisher F-ERVQ-B150CO2 heat recovery ventilator
 - FlinQ Breeze indoor pedestal fan
 - Funai Fuji ERW-150 Ultimate ventilation fan
@@ -527,6 +529,7 @@ devices # Supported
 - Ditua DT-1522-YN aroma diffuser
 - Etersky aroma diffuser with light
 - GD2050WIFI aroma diffuser
+- Haoyunma BD100 aroma diffuser
 - InLine ultrasonic aroma diffuser
 - Maxico aroma diffuser with light (cannot be differentiated automatically from Ditua above)
 - Revesien Q-Pro-W aroma diffuser
@@ -831,6 +834,7 @@ of device.
 - Lexi Lighting string light Wifi adapter
 - LightStar CCT track light
 - Loycco sound machine with nightlight (also sold as Momland nightlight with white noise)
+- Loycco Smart Nursery light
 - Loginovo TV sync backlight
 - LSC Smart Connect CCT + RGB ceiling light
 - LSC Smart Connect CCT + RGB led strip
@@ -1087,6 +1091,7 @@ port and password.
 - Petoneer Fresco Hydrate Ultra pet fountain (2 versions)
 - Petoneer Fresco Mini pet fountain
 - Petoneer Nutri PF004 pet feeder
+- Petory F03W pet feeder
 - Petree 2.0 litter box
 - Petrust TK-WF002 pet fountain
 - PetSnowy Snow+ litter box
@@ -1095,6 +1100,7 @@ port and password.
 - PNI water feeder
 - Puppy Kitty automatic pet feeder (F14-W and another model)
 - Rojeco PTM-001 pet feeder (two versions)
+- Rojeco V200 DU3L-VS camera pet feeder
 - Sailesi self-cleaning litter box
 - Sobralik pet fountain
 - Tesla Smart pet feeder
