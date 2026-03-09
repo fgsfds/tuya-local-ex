@@ -16,7 +16,7 @@ entities:
         name: switch
 # Auto clean
   - entity: switch
-    name: Auto clean
+    translation_key: auto_clean
     icon: mdi:broom
     dps:
       - id: 101
