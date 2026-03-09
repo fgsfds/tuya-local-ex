@@ -55,7 +55,7 @@ entities:
             value: 100
 
   - entity: switch
-    translation_key: sleep_mode
+    translation_key: sleep
     category: config
     icon: "mdi:power-sleep"
     dps:
@@ -64,7 +64,6 @@ entities:
         name: switch
 
   - entity: sensor
-    translation_key: temperature
     class: temperature
     category: diagnostic
     dps:
@@ -101,7 +100,6 @@ entities:
         name: switch
 
   - entity: sensor
-    translation_key: fault
     class: safety
     category: diagnostic
     icon: "mdi:alert-circle-outline"
