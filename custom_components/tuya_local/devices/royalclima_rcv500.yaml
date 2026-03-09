@@ -22,7 +22,7 @@ entities:
             value: 100
 
   - entity: sensor
-    name: Filter life
+    translation_key: filter_life
     icon: "mdi:air-filter"
     category: diagnostic
     dps:
