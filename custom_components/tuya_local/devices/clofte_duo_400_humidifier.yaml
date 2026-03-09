@@ -67,7 +67,7 @@ entities:
           - dps_val: false
             value: true
   - entity: switch
-    name: Drying
+    translation_key: drying
     dps:
       - id: 105
         name: switch

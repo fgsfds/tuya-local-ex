@@ -114,7 +114,7 @@ entities:
         type: string
         optional: true
   - entity: switch
-    name: Wet
+    translation_key: wet
     icon: "mdi:hvac"
     dps:
       - id: 9

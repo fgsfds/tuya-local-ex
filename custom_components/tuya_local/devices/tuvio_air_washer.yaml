@@ -70,7 +70,7 @@ entities:
         name: switch
 
   - entity: switch
-    translation_key: "wet"
+    translation_key: wet
     icon: "mdi:water"
     dps:
       - id: 104
@@ -78,7 +78,7 @@ entities:
         name: switch
 
   - entity: switch
-    translation_key: "drying"
+    translation_key: drying
     icon: "mdi:hair-dryer"
     dps:
       - id: 105
