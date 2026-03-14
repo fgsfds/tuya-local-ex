@@ -12,3 +12,4 @@
 - [levikinva](https://github.com/levikinva) for Tion Breezer Bio X support.
 - [MilkyCode13](https://github.com/MilkyCode13) for Thermex Bono 50 WiFi support.
 - [lolmaxlevel](https://github.com/lolmaxlevel) for Tuvio TUH02DE support.
+- [pro100filimon](https://github.com/pro100filimon) for Tuvio TUH05DE support.
