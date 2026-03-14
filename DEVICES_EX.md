@@ -14,6 +14,7 @@
 - Deerma DEM-F995W
 - Tuvio Air Washer TAO01DE
 - Tuvio TUH02DE
+- Tuvio TUH05DE
 
 ### Water Boilers
 
