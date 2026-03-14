@@ -11,3 +11,4 @@
 - [Anzic23](https://github.com/Anzic23) for Royal Clima RCV 500 support.
 - [levikinva](https://github.com/levikinva) for Tion Breezer Bio X support.
 - [MilkyCode13](https://github.com/MilkyCode13) for Thermex Bono 50 WiFi support.
+- [lolmaxlevel](https://github.com/lolmaxlevel) for Tuvio TUH02DE support.
