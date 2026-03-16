@@ -1283,8 +1283,16 @@ Further device support has been made with the assistance of users. Please consid
 - [Schm1tz1](https://github.com/Schm1tz1) for contributing support for Termoplaza 900 panel heater.
 - [rainbowghost](https://github.com/rainbowghost) for contributing support for Casdon 16J3S dishwasher and T2E oven.
 - [woutervb](https://github.com/woutervb) for contributing support for Arlec ATF4601HA 4-speed fan.
-- [jrafaelahmedov](https://github.com/jrafaelahmedov) for contributing improvement to config flow.
+- [jrafaelahmedov](https://github.com/jrafaelahmedov) for contributing improvement to config flow and LDNIO SCW3451 powerstrip which was merged to `quad_power_timer`.
 - [TinQ0](https://github.com/TinQ0) for contributing support for Repetsun 5L double bowl pet feeder.
 - [lweikit](https://github.com/lweikit) for contributing support for Yu Home Yu Turbo laundry drying rack.
 - [AlbertoMarziali](https://github.com/AlbertoMarziali) for contributing support for Nivian NVS-A6WG alarm panel.
 - [TheAdamGalloway](https://github.com/TheAdamGalloway) for contributing support for Curv alarm panel that was merged to the Nivian above.
+- [LeeRuMax](https://github.com/LeeRuMax) for assisting with support for Avonflow AFD14-H thermostat.
+- [arayanhasgithub](https://github.com/arayanhasgithub) for contributing support for A.O. Smith HeatBot 15L water heater.
+- [jmlugo15](https://github.com/jmlugo15) for assisting with support for Qiachipceiling fan with light.
+- [sydneysider123](https://github.com/sydneysider123) for assisting with support for Ausclimate EcoSmart pedestal fan.
+- [ClarkAlmazan](https://github.com/ClarkAlmazan) for assisting with support for Suntree SPG3 EV charger.
+- [wan0net](https://github.com/wan0net) for contributing support for Kogan  Vostok portable air conditioner.
+- [penguin00xx](https://github.com/penguin00xx) for assisting with support for Koenic KTM-221723-M kettle.
+- [dodhouse](https://github.com/dodhouse) for assisting with support for Brilliant ceiling fan remote controller.

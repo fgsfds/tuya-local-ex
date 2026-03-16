@@ -129,7 +129,7 @@ devices # Supported
 - Inventor Comfort and Leon air conditioners
 - Kaisai Pro Heat+ air conditioner
 - Klarstein Iceblock Ecosmart air conditioner
-- Kogan portable air conditioners (Y09, Y12, Y16)
+- Kogan portable air conditioners (Y09, Y12, Y16, Vostok)
 - Kogan vertical window air conditioner
 - Lyfco OL-A012 air conditioner
 - MeacoCool MC Series Pro portable air conditioners
@@ -188,6 +188,7 @@ devices # Supported
 ### Water heaters
 
 - Apricus heat pump water heater
+- A.O. Smith HeatBot 15L electric water heater
 - Aquatech Rapid/X6 heat pump water heater
 - Aquaviva AVH15S combo air-water heat pump
 - Arçelik AHPH-MM series combo air-water heat pump
@@ -226,6 +227,7 @@ devices # Supported
 - Atorch AT4PTW DIN rail thermostat
 - Atorch S1TW thermostat smart switch
 - Avatto ME81, WS20R and WT100 thermostats
+- Avonflow AFD14-H radiator thermostat
 - Awow/Mi-heat TH213 thermostat (two variants)
 - Beca BAC-002, BAC-006, BAC-2005ALW, BHT-002/3000, BHP-6000 thermostats
 - Beca BHT-12 thermostat smartplug
@@ -306,13 +308,14 @@ devices # Supported
 - Aspen ASP 200 fan
 - Atomberg Gorilla fan V2
 - Atomi 52 inch ceiling fan
+- Ausclimate EcoSmart pedestal fan
 - Aygrochy ventilation duct fan
 - Aziot fan modular switch
 - BKZO ceiling fan with RGBCW light
 - Blitzwill ceiling fan with light
 - Brandson A307362x3 tower fan
 - Breville AirDynamic 3D pedestal fan
-- Brilliant Ceiling fan with light
+- Brilliant Ceiling fan with light, and remote controller
 - Calibo Cloudfan DC ceiling fan with light
 - Carro ceiling fan with cool and warm white lights
 - Carro PN-04F02D fan with dimmable light
@@ -388,6 +391,7 @@ devices # Supported
 - Princess Smart Tower fan
 - Prism+ Oasis Pro ceiling fan with RGBCCT light
 - Pro Breeze AirFlo 43" pedestal fan
+- Qiachip QI-FLRC-1 ceiling fan with light
 - Reiga ceiling fans with and without light
 - Riyue Box 3 fan with light
 - Roomratv ceiling fan with light
@@ -563,6 +567,7 @@ devices # Supported
 - Inkbird sous vide cooker (also supports Silvercrest sous vide sticks)
 - Klarstein Amazonia dishwasher
 - Klarstein Ava range hood
+- Koenic KTM-221723-M kettle
 - Kogan glass 1.7L smart kettle (at least 2 different variants)
 - Korex AX-WF306N smart kettle
 - Leoffen LFIM6000 ice cube maker
@@ -661,6 +666,7 @@ devices # Supported
 - Parkside PLGS 2012 A1 smart charger for powertools
 - SEVR X1 EV charger
 - SRNE SE Series lithium battery
+- Suntree SPG3 EV charger
 - Tary TA-AC380/22 EV charger
 - Tera W01 EV charger
 - Vevor Level 2, portable 7kW and 3.7kW EV chargers
