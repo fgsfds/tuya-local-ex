@@ -400,6 +400,7 @@
 - Pro Breeze AirFlo 43" pedestal fan
 - Qiachip QI-FLRC-1 ceiling fan with light
 - Reiga ceiling fans with and without light
+- Reventon / Holtop Smart ERV heat recovery ventilator
 - Riyue Box 3 fan with light
 - Roomratv ceiling fan with light
 - Royal Clima RCB 150 ventilation system
@@ -762,6 +763,7 @@ the best option.
 - Somgam double wall switch
 - Teckin SS42 outdoor double smartplug
 - Tellur 3 outlet + USB power strip with individual timers
+- Tongou TOVTH-216WTTDA temperature humidity sensor dual smart switch
 - TY-12W 12 switch relay board
 - WF-WS02 RJ dual switch with master
 - Woox R4028/DIGOO DG-PS01 3 outlet + USB powerstrip with individual timers
