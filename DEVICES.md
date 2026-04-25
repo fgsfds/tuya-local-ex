@@ -205,7 +205,7 @@
 - Deakon EVI DC inverter heat pump
 - EMS Thermal 200L domestic heat pump hot water system
 - Envirosun ES330M9 hot water system
-- Ferroli Titano Twin water heater
+- Ferroli EGEA and Titano Twin water heaters
 - Fisher air to water heat pump
 - Geyserwise TSE1 and MWS Geyser controller kits
 - Giatsu VAW 2 heat pump water heater
@@ -214,6 +214,7 @@
 - Hydrotherm Dynamic/X8 heat pump hot water systems (Gen 5 and 6)
 - Intaflo Intabloc DC Inverter air-water heat pump
 - ITS-4.5HD super water heat pump
+- Joyonway PB562 spa pool controller
 - Koi Duo HTW-TD-080KOID
 - Lohxa SR208C solar water heating controller
 - Macro MA-20WODP gas water heater
@@ -634,6 +635,7 @@
 - MatSee Plus bidirectional two channel clamp meter (multiple variants)
 - Meterk single phase clamp meter
 - Ourtop ATMS100133 energy meter
+- Owon PC341 3 in 16 out clamp energy meter
 - Parkside PG/PMW-300 solar inverter
 - PC311-TY 2 phase power clamp meter
 - PC321-TY 3 phase power clamp meter
