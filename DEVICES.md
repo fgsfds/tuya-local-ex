@@ -131,6 +131,7 @@
 - Haier Airmart wall air conditioner
 - Hokkaido HKEDM 263 ZL air conditioner
 - Idea Heating Belt (with CS1 USB dongle)
+- Ideal Clima TQCT07 fancoil air conditioner
 - Igenix IG9901WIFI portable air conditioner
 - Inventor Comfort and Leon air conditioners
 - Kaisai Pro Heat+ air conditioner
@@ -430,6 +431,7 @@
 - Windcalm ceiling fans with and without cool/warm white dimmable light
 - Yidi/NHZS fan and light wall switch
 - Yijingkc 284-8 ceiling fan
+- Yoevu EOS ceiling fan with CCT light
 - Yunlong ceiling fan with RGBCW lights
 
 ### Air Purifiers
