@@ -398,7 +398,7 @@
 - Mantra ceiling fan with light
 - Milano ceiling fan
 - New Widetech WPF-16SW5 7-speed pedestal fan
-- Novadigital ceiling fan with light
+- Novadigital ceiling fan with light
 - NP-DVL-01 ceiling fan with RGB+CW light
 - OmniBreeze DC2313R tower fan (4-speed and 5-speed models)
 - Orison Chanfok Neo ceiling fan with light
@@ -479,7 +479,7 @@
 
 ### Dehumidifiers
 
-- Aktobis WDH-310EK and WDH-870FW dehumidifiers
+- Aktobis WDH-214US, WDH-310EK and WDH-870FW dehumidifiers
 - AlecoAir D12 ECO, D12/D16 Home, D14, D16, D25 Traditio dehumidifiers
 - Argo Dry Pury Evo WF dehumidifier
 - Arida S7L-2 dehumidifier
@@ -1325,6 +1325,7 @@ port and password.
 - Vevor YT60307 weather station
 - Vivo FD55 motorized TV mount
 - VT-14N1 9-in-1 air quality monitor
+- W-2839 water quality monitor
 - Weaja WJ-TUYA-S9 gas alarm
 - WeatherStation Pro
 - Wenzhi WZ-100M-W human presence sensor
