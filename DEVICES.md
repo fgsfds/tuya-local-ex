@@ -424,6 +424,7 @@
 - Orison RGB ambient bladeless ceiling fan
 - Ovlaim ceiling fan with cool/warm white dimmable light
 - Plikc Ario WiFi air vent
+- Poiema SGT-F12W fan
 - Point One Technology Storm VSPEC-IV dual axis corner fan
 - Prestige M3 ceiling fan with light
 - Princess DC pedestal fan
@@ -569,6 +570,7 @@
 - Duux Beam 2 humidifier
 - Eanons QT-JS2014 purifying humidifier
 - Eberg HUMI H03G1 humidifier
+- Eta Noble humidifier
 - Homvana H111S humidifier
 - Inkbird IHC-200 humidity controller
 - Klarta Humea and Humea Grande humidifiers
