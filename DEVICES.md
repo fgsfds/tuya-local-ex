@@ -174,6 +174,7 @@
 
 ### Pool heaters / heat pumps
 
+- Aquark Mr Silence pool heat pump
 - Aquastrong HEX pool heat pumps
 - Brustec BR-80 pool heat pump
 - BWT FI 45 heat pump
@@ -186,7 +187,7 @@
 - Madimack Eco, Elite V2,V3,V4 and other model pool heat pumps
 - Mountfield Azuro pool heat pump
 - Poolex Silverline, Q-7, Q-line, Arctic, Vertigo, Ice Spa, Mag FI, JetLine Premium FI heat pumps
-- Poolsana InverPower Next pool heat pump
+- Poolsana InverPower Next and InverPrestige Pro pool heat pumps
 - Poolstyle PSL-150-00xx pool heat pump
 - Pool Systems IPS Pro pool heat pump (also Fairland Inver-X)
 - Pro-Energy PE08 pool heat pump
@@ -630,7 +631,7 @@
 - Kogan glass 1.7L smart kettle (at least 2 different variants)
 - Korex AX-WF306N smart kettle
 - Leoffen LFIM6000 ice cube maker
-- Recteq RT-700, RT-1250, RT-B380X grills
+- Recteq RT-700, RT-800 Deck Boss, RT-1250, RT-B380X grills
 - Rohnson R-2858 SmartChef XL soft cooking air fryer
 - Setti+ KT950W smart kettle
 - Silvercrest 1.7L smart kettle
@@ -1355,6 +1356,7 @@ port and password.
 - Sunbeam single heated mattress pad
 - Sundream LC-series salt pool chlorinator (rebranded as Poolomio)
 - SWS-001 smart weather station
+- TC700 Pro air quality monitor
 - TH05Z temperature and humidity sensor
 - TH08 temperature and humidity sensor
 - TH16 temperature and humidity sensor

@@ -1,15 +1,17 @@
 name: IR remote control
-# originally misspelled
-legacy_type: hircr_reemote_control
 products:
-  - id: nuzvlkjtqgsjbjfh
-    manufacturer: Senda
+  - id: lwpag3bu0faaowlj
+    manufacturer: Positivo
+    model: Smart Controle Universal V2 H5
 entities:
   - entity: remote
     dps:
       - id: 1
         type: string
         name: control
+        mapping:
+          - dps_val: study_key
+            value: send_ir
       - id: 2
         type: string
         optional: true
@@ -18,7 +20,7 @@ entities:
       - id: 3
         type: string
         optional: true
-        name: send
+        name: send_not_working
       - id: 4
         type: string
         optional: true
@@ -34,7 +36,7 @@ entities:
       - id: 7
         type: string
         optional: true
-        name: key_study
+        name: send
       - id: 8
         type: string
         optional: true
@@ -73,7 +75,10 @@ entities:
       - id: 1
         type: string
         name: control
-      - id: 3
+        mapping:
+          - dps_val: study_key
+            value: send_ir
+      - id: 7
         type: string
         optional: true
         name: send

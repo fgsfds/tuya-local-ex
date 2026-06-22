@@ -837,7 +837,7 @@ Further device support has been made with the assistance of users. Please consid
 - [vanyasvl](https://github.com/vanyasvl) for contributing support for Afyeev 32A 7kW EV charger.
 - [Flechaa](https://github.com/Flechaa) for contributing support for HTW IX75B air conditioner.
 - [n4dwxihyehyes2](https://github.com/n4dwxihyehyes2) for contributing support for WS2812 based Christmas lights.
-- [reitermarkus](https://github.com/reitermarkus) for contributing support for Klamer 2600W IR heater.
+- [reitermarkus](https://github.com/reitermarkus) for contributing support for Klamer 2600W IR heater and Aquark Mr Silence pool heat pump.
 - [MCarvalho06](https://github.com/MCarvalho06) for contributing support for Parkside Bluetooth mowers.
 - [PetePeter](https://github.com/PetePeter) for contributing improvements to SRNE EOS10B battery.
 - [mvanhorn](https://github.com/mvanhorn) for contributing support for Casdon TD Pro 3 oven.
@@ -850,3 +850,8 @@ Further device support has been made with the assistance of users. Please consid
 - [c1em3ntchua](https://github.com/c1em3ntchua) for contributing support for EuropAce EDH3122A dehumidifier.
 - [Zankio](https://github.com/Zankio) for contributing support for Poiema SGT-F12W fan.
 - [jiriks74](https://github.com/jiriks74) for contributing support for Eta Noble humidifier.
+- [hartmms](https://github.com/hartmms) for contributing support for Recteq Deck Boss 800 grill, and improvements to Modern Flames Orion fireplace.
+- [geekypilot](https://github.com/geekypilot) for contributing improvements to device reloading and reconfiguration.
+- [WalkingFrag](https://github.com/WalkingFrag) for contributing improvements to Vivo FD55 TV mount.
+- [lsteffen](https://github.com/lsteffen) for contributing support for Poolsana InverPrestige Pro pool heat pump.
+- [Misha-133](https://github.com/Misha-133) for contributing support for TC700 Pro air quality monitor.
