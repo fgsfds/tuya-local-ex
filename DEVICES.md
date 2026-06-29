@@ -237,6 +237,7 @@
 - Neopower Black Diamond all-in-one heat pump water heater
 - Nulite NL-B245 monobloc heat pump
 - Oekoboiler RS series heat pump water heater
+- Omni X Duplex water heater
 - Powerworld PW040, PW060, PWS58330, PWS58410 air+water heat pumps
 - Rinnai Enviroflo heat pump water heater
 - Sanden GAU-A45HPD WiFi heat pump controller
@@ -362,7 +363,7 @@
 - Create XW-FAN-215-D ceiling fan with light (dimming and non-dimming variants)
 - Depauley WS-FPZ37-18I-EU ceiling fan with light
 - Deta fan controllers (6914HA Series 2 and 3)
-- Djive ARC humidifying fan
+- Djive ARC portable and humidifying fans
 - dLuft Smart Flow ventilator fan
 - Dometek Diamond ceiling fan with light
 - Dream Maker Feel DM01 fan
@@ -456,6 +457,7 @@
 - Varin CFWI50 RGBCW ceiling fan
 - Varin VA-E003 ceiling fan with light
 - Windcalm ceiling fans with and without cool/warm white dimmable light
+- Yamazen Living AHX-ALD30 pedestal fan
 - Yidi/NHZS fan and light wall switch
 - Yijingkc 284-8 ceiling fan
 - Yoevu EOS ceiling fan with CCT light
