@@ -868,3 +868,5 @@ Further device support has been made with the assistance of users. Please consid
 - [viljasenville](https://github.com/viljasenville) for contributing support for Point PODH20 dehumidifier.
 - [Yevhen-Pechurin](https://github.com/Yevhen-Pechurin) for contributing support for Tervix Pro Line thermostat.
 - [Beersteak](https://github.com/Beersteak) for contributing support for Parkside PBB-A1 water timer.
+- [eldarsudden](https://github.com/eldarsudden) for contributing support for Teploluxe MCS350 thermostat.
+- [fribse](https://github.com/fribse) for contributing support for Qlima MS-AC 5002 air conditioner.

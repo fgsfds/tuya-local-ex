@@ -151,7 +151,7 @@
 - Morris WFIN-35168 air conditioner
 - MyCond Berg air conditioner
 - Nedis ACMB1WT12 portable air conditioner
-- Qlima SC 7035S air conditioner
+- Qlima SC 7035S and MS-AC 5002 air conditioners
 - Rotenso Roni R35WI and Roni X
 - Royal Clima Fresh air conditioner
 - Royal Sovereign RSAI-12SA mini split air conditioner
@@ -326,6 +326,7 @@
 - SimPal TY-130 thermostat switch
 - T5E-WF thermostat
 - Tellur thermostat
+- Teploluxe MCS350 thermostat
 - Tervix Pro Line thermostat
 - Thermoval TVT40 thermostat
 - TyloHelo SaunaLogic2 sauna controller
