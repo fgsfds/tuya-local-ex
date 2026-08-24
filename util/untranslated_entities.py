@@ -51,7 +51,9 @@ def main() -> int:
                 continue
             translations = english[entity.entity]
             if slug in translations:
-                print(f"{where}: Entity can use translation_key: {slug}")
+                print(
+                    f"{where}: Entity {entity.name} of {device.name} can use translation_key: {slug}"
+                )
                 detected += 1
     return detected
 
