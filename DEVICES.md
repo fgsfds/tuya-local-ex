@@ -605,7 +605,7 @@
 - AlecoAir PU55 Humino humidifier
 - Arida Eva humidifier
 - BlitzWolf BW-SH2, BW-SH5 humidifiers
-- Breville Smart Mist Glow Connect humidifier
+- Breville Smart Mist Glow Connect and Smart Mist Top humidifiers
 - Carro VES1011 humidifier
 - Clean Air Optima CA-604B, CA-605B, CA-607B humidifiers
 - Clofte Duo 400 humidifier
@@ -1276,6 +1276,7 @@ port and password.
 - Rojeco V200 DU3L-VS camera pet feeder
 - Sailesi self-cleaning litter box
 - Sobralik pet fountain
+- TA-FD-BL6 camera pet feeder
 - Tesla Smart fish and pet feeders
 - Ti Pro25 cat litter box
 - Tonepie T1PRO cat litter box
@@ -1435,6 +1436,7 @@ port and password.
 - Tontine electric blanket
 - TOPENS TC196 remote control for gate openers
 - Treatlife 24GHz mmWave human presence sensor
+- TS100 water quality controller
 - TX-E gas sensor/alarm
 - Vevor YT60307 weather station
 - Vivo FD55 motorized TV mount
@@ -1469,6 +1471,7 @@ port and password.
 - BSTUOKEY Invisible induction door lock
 - Diivoo DWV010, WT05 dual water timers
 - Dituo DT-T2190A aroma diffuser
+- Eshico HCT-622 single valve water timer
 - Gainsborough Liberty entrance lock
 - HCT-611 water timer
 - HCT-626 dual water timer
