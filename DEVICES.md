@@ -509,7 +509,7 @@
 - essentials portable air purifier
 - Himox H05 and H06 air purifiers
 - Homemedics C500 air purifier
-- Honeywell Air Touch P2 Air Purifier
+- Honeywell Air Touch P2 and H-Speed Pro air purifiers
 - Hosome air purifier
 - iHunt 400m³/h and 50m³/h air purifiers
 - Jafanda JF260S and JF500 air purifiers
@@ -724,7 +724,7 @@
 - PC311-TY 2 phase power clamp meter
 - PC321-TY 3 phase power clamp meter
 - PC473 3-phase energy monitor
-- PJ-1103, PJ-1103A power clamp meters
+- PJ-1103, PJ-1103A, PJ-1103C power clamp meters
 - PowBay JGQW01-63 energy monitoring circuit breaker
 - PZIOT E01 energy meter
 - SG600MD solar inverter (also SG700MD, other SGxx0MD and SGxx0W models) sold under various brands
@@ -977,10 +977,8 @@ of device.
 - Loycco Smart Nursery light
 - Loginovo TV sync backlight
 - LSC Smart Connect CCT + RGB ceiling light
-- LSC Smart Connect CCT + RGB led strip
+- LSC Smart Connect CCT+RGB, RGB/IC+CCT/IC, Neon, Party led strips
 - LSC Smart Connect garden spotlights
-- LSC Smart Connect Neon LED strip
-- LSC Smart Connect Party string lights
 - LSC smart connect RGB CCT lightbulb (similar to older generic bulbs, so may work for others)
 - Lumary D1 6 inch retrofit downlight (independent RGB ring and CCT centre)
 - Lytmi Fantasy/Neo 3 HDMI sync backlight
@@ -1002,6 +1000,7 @@ of device.
 - Outon Smart Lamp
 - Peteme recessed lighting
 - Pinar SmartLux door lights
+- Pixbee Illumi ambient light
 - PowerAsia RGB 6-inch recessed lighting
 - RGB48 RGBIC string light
 - Richelieu tunable white LED puck light (166142030)
@@ -1371,9 +1370,10 @@ port and password.
 - Haoliyuen EWC02 air quality monitor
 - Haozee explosive gas leak and carbon monoxide alarm
 - Haozee PS10 mmWave presence sensing light switch
+- Holman Helios weather station
 - Houschen anti-fog bathroom mirror with lights
 - HRT AS90 temperature and humidity alarm
-- Holman Helios weather station
+- HX-002-Z human presence sensor
 - iHseno ZTU human presence sensor
 - idoo Smart Bloom 8 hydroponic system
 - Immax Neo Lite 7-in-1 weather station
