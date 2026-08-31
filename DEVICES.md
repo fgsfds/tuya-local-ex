@@ -148,6 +148,7 @@
 - Igenix IG9901WIFI portable air conditioner
 - Inventor Comfort and Leon air conditioners
 - Kaisai Pro Heat+ air conditioner
+- Kältebringer KBO series air conditioner
 - Kibernetik 12K portable split air conditioner
 - Klarstein Iceblock Ecosmart, MetroBreeze New York, Pure Blizzard air conditioners
 - Kogan portable air conditioners (Y09, Y12, Y16, Vostok)
@@ -209,6 +210,7 @@
 - Sibrape CBC-Pool BP heat pump
 - Steinbach Solid 4.3 and Silent Mini pool heat pumps
 - Swim & Fun InverBoost pool heat pump
+- Trevi InnovAqua variable speed pool heat pump
 - Turbro 75000 btu pool heat pump
 - Varminpool pool heatpump
 - Varpoolfaye 5kW pool heat pump
@@ -414,6 +416,7 @@
 - Hoenofly Smart Amari ceiling fan with light
 - Hoenofly Smart Wood low profile ceiling fan with lights
 - Holmes SmartConnect Digital Tower Fan (36 and 40 inch variants)
+- Holtop CFA-500t Energy Recovery Ventilation system
 - Hombli 6-speed ceiling fan with RGBCW light
 - HomCom 6-speed tower fan
 - Homebase 12" oscillating fan
@@ -546,6 +549,7 @@
 - Argo Dry Pury Evo WF dehumidifier
 - Arida S7L-2 dehumidifier
 - Belair Baltic Irradio 20L dehumidifier
+- Breville BAD358 All Climate 2-in-1 dehumidifier
 - Cecotec BigDry 4000 dehumidifier
 - Clean Air Optima CA-702 and CA-707 dehumidifiers
 - Cleverio AD100 dehumidifier
@@ -563,12 +567,13 @@
 - Goldair GPDH340, GPDH420 dehumidifiers
 - Gologi GO021 dehumidifier
 - Greenmigo Alpha Q25 dehumidifier
-- Hiniso dehumidifier
+- Hiniso RM10S and other dehumidifiers
 - Honeywell TP(30/50/70) dehumidifiers
 - HTW HTWD020A4 dehumidifier
 - Hyundai Sahara dehumidifier
 - Inkbird IHC-200 humidity controller
 - Inventor Atmosphere XL, Eva Ion Pro, Rise Pro dehumidifiers
+- Ivation 50PT dehumidifier
 - JJPro JPD01, JPD02 dehumidifers
 - Juro-Pro 2006 dehumidifier
 - Klarstein DryFy Pro Connect dehumidifier
@@ -663,6 +668,7 @@
 - Cecofry 5500 Connected air fryer
 - Etna VW644MC dishwasher, AB791 range hood
 - Fiesta DK-1G smart kettle
+- FRE1L4 water chiller
 - Goldair GGK1000 smart kettle
 - Götze and Jensen KT975K smart kettle
 - Hauslane IN-R110 range hood
@@ -1034,12 +1040,13 @@ of device.
 - Avatto curtain and light switch
 - Avatto curtain switch
 - Avatto roller blind controller
+- Belko ProLift 1200N garage door opener
 - Benexmart blind motor
 - BobYun Tech gatePro gate opener
 - CCB-11 blind controller
 - CC curtain controller 1
 - CST WB V1 cover switch with backlight
-- Curry Smarter 6-Gen roller shutter switch
+- Curry Smarter 6-Gen and W7Pro roller shutter switches
 - Dongguan garage door
 - Dongguan LY1678-2 curtain robot
 - Dooya curtain motor
@@ -1240,7 +1247,7 @@ port and password.
 - HoneyGuardian S56 pet feeder
 - iLonda L88 fish feeder
 - Imipaw DUW21 WBR3D cat feeder
-- iPettie W5 pet feeder
+- iPettie W5 and FW54 pet feeders
 - Kalado KPF01 pet feeder
 - Kanchou pet fountain
 - Leo's Loo Too pet toilet
@@ -1280,6 +1287,7 @@ port and password.
 - Sobralik pet fountain
 - TA-FD-BL6 camera pet feeder
 - Tesla Smart fish and pet feeders
+- Tesla Smart pet sofa
 - Ti Pro25 cat litter box
 - Tonepie T1PRO cat litter box
 - Tonepie T1 Pro MAX cat litter box
@@ -1412,7 +1420,7 @@ port and password.
 - PV28-AW 3-in-1 CO2 monitor
 - PV28-CW 8 in 1 air quality monitor
 - QTFV3-3 air quality monitor
-- Raddy PT-5 pool thermometer
+- Raddy PT-3 and PT-5 pool thermometers
 - RainPoint TTV103FRF water timer
 - RQ400A gas alarm
 - RSE TY-WFH v3.01 gate controller
