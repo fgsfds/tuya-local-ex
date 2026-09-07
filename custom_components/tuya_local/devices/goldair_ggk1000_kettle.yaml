@@ -75,7 +75,7 @@ entities:
           - dps_val: warm
             value: keeping_warm
   - entity: sensor
-    translation_key: remaining_time
+    translation_key: time_remaining
     class: duration
     category: diagnostic
     dps:

@@ -956,3 +956,4 @@ Further device support has been made with the assistance of users. Please consid
 - [gergely-sallai](https://github.com/gergely-sallai) for contributing support for Holtop CDA-500t ERV.
 - [flsoto](https://github.com/flsoto) for contributing support for CNC YCB9NZF-40AP circuit breaker.
 - [blackjid](https://github.com/blackjid) for contributing support for Anwo Brezza ceiling fan.
+- [giraudsa](https://github.com/giraudsa) for contributing support for PJ2101A clamp meter.
