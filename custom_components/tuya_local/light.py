@@ -74,8 +74,9 @@ class TuyaLocalLight(TuyaLocalEntity, LightEntity):
             if m:
                 tr = m.get("target_range")
                 if tr:
-                    self._attr_min_color_temp_kelvin = tr.get("min")
-                    self._attr_max_color_temp_kelvin = tr.get("max")
+                    # Target range can be inverted, so use min/max functions to ensure correct order
+                    self._attr_min_color_temp_kelvin = min(tr.get("min"), tr.get("max"))
+                    self._attr_max_color_temp_kelvin = max(tr.get("min"), tr.get("max"))
                     range_set = True
             if not range_set:
                 r = self._color_temp_dps.range(self._device)

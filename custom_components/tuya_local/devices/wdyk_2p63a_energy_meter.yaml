@@ -3,6 +3,9 @@ products:
   - id: r9kg2g1uhhyicycb
     manufacturer: WDYK
     model: 2P63A
+  - id: ai1wxf8tow62uieb
+    manufacturer: Brinna
+    model: SPFW-63
 entities:
   - entity: sensor
     class: energy
@@ -115,6 +118,7 @@ entities:
     dps:
       - id: 13
         type: integer
+        optional: true
         name: sensor
         unit: kWh
         class: measurement
@@ -194,6 +198,7 @@ entities:
     translation_placeholders:
       x: B
     class: voltage
+    hidden: true
     dps:
       - id: 7
         type: base64
@@ -209,6 +214,7 @@ entities:
     translation_placeholders:
       x: B
     class: current
+    hidden: true
     dps:
       - id: 7
         type: base64
@@ -224,6 +230,7 @@ entities:
     translation_placeholders:
       x: B
     class: power
+    hidden: true
     dps:
       - id: 7
         type: base64
@@ -239,6 +246,7 @@ entities:
     translation_placeholders:
       x: C
     class: voltage
+    hidden: true
     dps:
       - id: 8
         type: base64
@@ -254,6 +262,7 @@ entities:
     translation_placeholders:
       x: C
     class: current
+    hidden: true
     dps:
       - id: 8
         type: base64
@@ -269,6 +278,7 @@ entities:
     translation_placeholders:
       x: C
     class: power
+    hidden: true
     dps:
       - id: 8
         type: base64
@@ -325,6 +335,7 @@ entities:
     dps:
       - id: 104
         type: integer
+        optional: true
         name: value
         unit: mA
         range:
@@ -336,6 +347,7 @@ entities:
     dps:
       - id: 105
         type: boolean
+        optional: true
         name: switch
         mapping:
           - dps_val: true
@@ -354,6 +366,7 @@ entities:
     name: Reset total energy
     class: restart
     category: config
+    hidden: true
     dps:
       - id: 115
         type: boolean
