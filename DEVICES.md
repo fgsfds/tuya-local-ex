@@ -1188,6 +1188,7 @@ port and password.
 - HomeMate PTZ indoor camera
 - Kerui 200W camera
 - Kerui JS-P162 300W camera
+- Ledvance floodlight camera with and without PTZ
 - LSC Smart Connect dual band outdoor camera
 - LSC Smart Connect Outdoor PTZ camera
 - LSC Smart Connect PTZ camera
@@ -1437,7 +1438,7 @@ port and password.
 - SNT957W-DE CBU temperature and humidity sensor
 - Sodial probe thermometer
 - Speaka SP-TVCM-510 TV mount
-- Steigen Solar Pro clothes drying rack
+- Steigen Solar Pro and Solar Ultra clothes drying racks
 - Sunbeam dual heated mattress pad
 - Sunbeam single heated mattress pad
 - Sundream LC-series salt pool chlorinator (rebranded as Poolomio)
