@@ -953,6 +953,7 @@ of device.
 - Deltaco LED Strip (SH-LW5M)
 - Deta/Arlec motion sensor lights (DET100HA/DET102HA/MAL315HA)
 - Deta 6910HA series2 dimmer switch
+- Dewenwils low voltage lighting transformer (3 switch)
 - Dim2Warm G95 Gold 1800-2700K CCT lightbulb
 - Dream of You dual dimmable lamp
 - Dreamegg Nite 1 baby sound machine
@@ -1244,6 +1245,7 @@ port and password.
 - Frienhund ACF180W-A dual camera pet feeder
 - Fukumaru AF01-W pet feeder
 - FurPipi PF05 pet feeder
+- Geeni WP005 pet treat camera
 - Hapaw pet fountain
 - Happy Llama Tech SoCool pet feeder
 - Happy Paws CoreBox litter box
