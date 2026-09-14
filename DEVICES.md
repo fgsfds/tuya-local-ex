@@ -34,6 +34,7 @@
 - ElectriQ MY130 oil radiator
 - Emke Orbrad PTR towel radiator
 - Essentials Smart Home electric bathroom heater
+- ETA 2625 Sole Smart panel heater
 - eTowel Mini04 plus towel rail thermostat
 - Eurom Alutherm 1000,1500,2000,2500 heaters
 - Eurom Hot-Shot 2000 heaters
@@ -414,6 +415,7 @@
 - Globe ceiling fans with RGBCW lights (with and without presets)
 - Goldair GCPF315 fan
 - Goldair Platinum tower fan (2 variants)
+- Hinkley Chisel 52" ceiling fan
 - Hiper T3 bladeless fan
 - Hoenofly Smart Amari ceiling fan with light
 - Hoenofly Smart Wood low profile ceiling fan with lights
@@ -771,6 +773,7 @@
 - Aimiler 11kW 16A and 40A EV chargers
 - Ampbolt Level 1/2 portable EV charger
 - AmperePoint Q series EV chargers
+- Arlec/Deta EV200D-HA EV charger
 - Conow CBE2000 Pro solar battery
 - dé Wall EV charger (3-phase 22Kw)
 - Demuda 4048/6048 MPPT solar charge controller
@@ -1120,6 +1123,7 @@ of device.
 - Realme TechLife vacuum cleaner
 - Rinkmo D2 vacuum cleaner
 - Rowenta X-plorer 75 S vacuum cleaner
+- Siguro TURBOVac Navigator vacuum cleaner
 - Tefal X-plorer serie 75 animal vacuum
 - Tesvor S6 vacuum cleaner with mop
 - TTEC Robi Pro vacuum cleaner
