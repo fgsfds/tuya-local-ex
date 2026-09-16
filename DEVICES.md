@@ -71,6 +71,7 @@
 - Lehmann LHOHC-2013C electric radiator
 - Livn Arosa electric fireplace
 - Magnum MRC floor heating (2 variants)
+- Manissa OWS-02A towel rail
 - Mellerware Comfy electric radiator (tested with Medium 1200W)
 - Modern Ember Vibrance XH-BG-15W/30WZKWIFI-10 electric fireplace
 - Modern Flames Orion and Landscape Pro Slim electric fireplaces
@@ -565,7 +566,7 @@
 - ElectriQ CD12PRO-LE, CD12PW, CD20PRO-LE-V2/V4, CD25PRO-LE-V2 dehumidifiers
 - ElectriQ DESD9LW dehumidifier (two variants)
 - Electriq PD45E dehumidifier
-- Eeese Adam, Anna, Carl, Emil, Otto, Thor dehumidifiers
+- Eeese Adam, Alma, Anna, Carl, Emil, Otto, Thor dehumidifiers
 - Emerio DH-129238.1 dehumidifier
 - EuropAce EDH3122A dehumidifier
 - Goldair GPDH340, GPDH420 dehumidifiers
@@ -624,6 +625,7 @@
 - Eberg HUMI H03G1 humidifier
 - Eta Noble humidifier
 - Flymoon Top Fill 5L Cool Mist humidifier
+- Haoqi HQ 001 humidifier
 - Homvana H111S humidifier
 - Inkbird IHC-200 humidity controller
 - Klarta Humea and Humea Grande humidifiers
@@ -1072,7 +1074,7 @@ of device.
 - Loonas smart curtain
 - LoraTap GDC100W garage door opener
 - LoraTap QCSC420W double curtain switch
-- LoraTap SC500W-V1 curtain switch (supports many other simple curtain/blind controllers)
+- LoraTap SC500W-V1, SC411WSC-EU curtain switches
 - LS830-TY curtain
 - M027 curtain module (sold under several brands, including zemismart, meterk and others)
 - M515 curtain motor
@@ -1138,7 +1140,8 @@ of device.
 ### Locks
 
 Note: Locks that are battery powered and do not use a hub are unlikely to
-work reliably, even if listed below.
+work reliably, even if listed below. Inclusion in this list is not a
+recommendation, some of these locks are INSECURE, use at your own risk.
 
 - BSTUOKEY access control keypad
 - Hornbill Y4 Smart lock
@@ -1149,6 +1152,7 @@ work reliably, even if listed below.
 - Sboard III mini Weigand access control interface
 - SmarDeer Lock33 smart lock
 - Tediton K7 smart lock
+- Wafu WF012 door lock
 
 ### Sirens
 
