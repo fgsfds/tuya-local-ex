@@ -798,6 +798,7 @@
 - Oscal PowerMax 2400 Pro and 6000 portable power stations
 - Parkside PLGS 2012 A1 smart charger for powertools
 - SEVR X1 EV charger
+- Smart EV Chargers 10A EV charger
 - SRNE SE Series lithium battery
 - Suntree SPG3 EV charger
 - Tary TA-AC380/22 EV charger
@@ -1372,6 +1373,7 @@ port and password.
 - Bresser Smart Thermo-hygrometer
 - BW salt pool chlorinator
 - BWT Energy Saver pool pump controller
+- CallToU Caregiver Pager call button
 - Chtoocy MC82 refrigerator thermometer
 - CO2-Box air quality monitor
 - CO2v1 carbon dioxide sensor
@@ -1385,7 +1387,7 @@ port and password.
 - EM3390TF weather station (tested with Viflykoo branded device, probably identical to the same model number branded as Uzoli, Jely and others)
 - EM3395TY-2 weather station
 - Emax EM3378 Weather Station (selling as Hiper P1 and other rebrands)
-- EPT ultrasonic 3m tank level sensor
+- EPT ultrasonic 3m and TLC2404LS-WL 8m tank level sensor
 - Eureka ERK-S62 adjustable desk
 - Goldair Platinum SleepSmart electric blanket
 - GratKit filament dryer
@@ -1439,6 +1441,7 @@ port and password.
 - QTFV3-3 air quality monitor
 - Raddy PT-3 and PT-5 pool thermometers
 - RainPoint TTV103FRF water timer
+- Rovynel 8-in-1 pool monitor
 - RQ400A gas alarm
 - RSE TY-WFH v3.01 gate controller
 - RTCZ-03 human presence sensor
