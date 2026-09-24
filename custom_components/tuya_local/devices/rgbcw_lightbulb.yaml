@@ -273,3 +273,13 @@ entities:
         type: base64
         optional: true
         name: value
+  - entity: text
+    name: Power memory
+    category: config
+    icon: "mdi:power-standby"
+    hidden: true
+    dps:
+      - id: 33
+        type: base64
+        optional: true
+        name: value
