@@ -156,7 +156,7 @@ class TuyaLocalDevice(object):
         # we can overlay onto the state while we wait for the board to update
         # its switches.
         self._FAKE_IT_TIMEOUT = 5
-        self._CACHE_TIMEOUT = 30
+        self._POLLING_INTERVAL = 30
         self._HEARTBEAT_INTERVAL = 5
         # More attempts are needed in auto mode so we can cycle through all
         # the possibilities a couple of times
@@ -340,6 +340,7 @@ class TuyaLocalDevice(object):
             self._api.parent.set_socketPersistent(persist)
 
         last_heartbeat = self._cached_state.get("updated_at", 0)
+        wifi_api = self._api.parent or self._api
         while self._running:
             error_count = self._api_working_protocol_failures
             force_backoff = False
@@ -348,7 +349,7 @@ class TuyaLocalDevice(object):
                 now = time()
                 full_poll = False
                 if (persist == self.should_poll) or (
-                    persist and (self._api.socket is None)
+                    persist and (wifi_api.socket is None)
                 ):
                     # use persistent connections after initial communication
                     # has been established.  Until then, we need to rotate
@@ -363,8 +364,8 @@ class TuyaLocalDevice(object):
                         self._api.parent.set_socketPersistent(persist)
                     self._last_full_poll = 0  # ensure we start with a full poll
 
-                needs_full_poll = now - self._last_full_poll > self._CACHE_TIMEOUT
-                if now - last_cache > self._CACHE_TIMEOUT or (
+                needs_full_poll = now - self._last_full_poll > self._POLLING_INTERVAL
+                if now - last_cache > self._POLLING_INTERVAL or (
                     persist and needs_full_poll
                 ):
                     if (
@@ -460,7 +461,7 @@ class TuyaLocalDevice(object):
                     self._api.parent.set_socketPersistent(False)
                 force_backoff = True
 
-            if not self.has_returned_state or self._api.socket is None:
+            if not self.has_returned_state or wifi_api.socket is None:
                 force_backoff = True
             await asyncio.sleep(5 if force_backoff else 0.1)
 
