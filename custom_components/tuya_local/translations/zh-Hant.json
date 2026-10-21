@@ -213,6 +213,13 @@
                     "off": "正常",
                     "on": "需要补充"
                 }
+            },
+            "water_flow": {
+                "name": "水流",
+                "state": {
+                    "off": "停止",
+                    "on": "流动"
+                }
             }
         },
         "button": {
@@ -681,6 +688,7 @@
                     "english_child": "English (Child)",
                     "french": "Français",
                     "german": "Deutsch",
+                    "hungarian": "Magyar",
                     "italian": "Italiano",
                     "japanese": "日本語",
                     "korean": "한국어",
@@ -695,7 +703,8 @@
                     "romanian": "Română",
                     "slovak": "Slovenčina",
                     "thai": "ไทย",
-                    "vietnamese": "Tiếng Việt"
+                    "vietnamese": "Tiếng Việt",
+                    "off": "關"
                 }
             },
             "light_mode": {
@@ -706,7 +715,16 @@
                     "state": "狀態",
                     "locator": "定位",
                     "auto": "自動",
-                    "flash": "閃爍"
+                    "flash": "閃爍",
+                    "breathe": "呼吸",
+                    "random": "隨機",
+                    "color": "顏色",
+                    "favorite": "最愛",
+                    "multi_color": "多色",
+                    "custom": "自訂",
+                    "mode_1": "模式1",
+                    "mode_2": "模式2",
+                    "mode_3": "模式3"
                 }
             },
             "mopping": {
@@ -796,6 +814,7 @@
                     "cancel": "取消",
                     "continuous": "連續",
                     "custom": "自訂",
+                    "immediate": "立即",
                     "5s": "5秒",
                     "10s": "10秒",
                     "15s": "15秒",
@@ -872,7 +891,10 @@
                     "10d": "10天",
                     "30d": "30天",
                     "60d": "60天",
+                    "80d": "80天",
                     "90d": "90天",
+                    "100d": "100天",
+                    "120d": "120天",
                     "160d": "160天",
                     "365d": "365天"
                 }

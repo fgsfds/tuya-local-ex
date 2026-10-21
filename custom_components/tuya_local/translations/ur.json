@@ -213,6 +213,13 @@
                     "off": "اوکے",
                     "on": "کم"
                 }
+            },
+            "water_flow": {
+                "name": "پانی کا بہاؤ",
+                "state": {
+                    "off": "بند",
+                    "on": "آن"
+                }
             }
         },
         "button": {
@@ -681,6 +688,7 @@
                     "english_child": "English (Child)",
                     "french": "Français",
                     "german": "Deutsch",
+                    "hungarian": "Magyar",
                     "italian": "Italiano",
                     "japanese": "日本語",
                     "korean": "한국어",
@@ -695,7 +703,8 @@
                     "romanian": "Română",
                     "slovak": "Slovenčina",
                     "thai": "ไทย",
-                    "vietnamese": "Tiếng Việt"
+                    "vietnamese": "Tiếng Việt",
+                    "off": "آف"
                 }
             },
             "light_mode": {
@@ -706,7 +715,16 @@
                     "state": "حالت",
                     "locator": "لوکیٹر",
                     "auto": "خود کار",
-                    "flash": "فلیش"
+                    "flash": "فلیش",
+                    "breathe": "سانس لینا",
+                    "random": "بے ترتیب",
+                    "color": "رنگ",
+                    "favorite": "پسندیدہ",
+                    "multi_color": "کئی رنگ",
+                    "custom": "اپنی مرضی",
+                    "mode_1": "موڈ 1",
+                    "mode_2": "موڈ 2",
+                    "mode_3": "موڈ 3"
                 }
             },
             "mopping": {
@@ -796,6 +814,7 @@
                     "cancel": "منسوخ کریں",
                     "continuous": "مسلسل",
                     "custom": "اپنی مرضی",
+                    "immediate": "فوری",
                     "5s": "5 سیکنڈ",
                     "10s": "10 سیکنڈ",
                     "15s": "15 سیکنڈ",
@@ -872,7 +891,10 @@
                     "10d": "10 دن",
                     "30d": "30 دن",
                     "60d": "60 دن",
+                    "80d": "80 دن",
                     "90d": "90 دن",
+                    "100d": "100 دن",
+                    "120d": "120 دن",
                     "160d": "160 دن",
                     "365d": "365 دن"
                 }

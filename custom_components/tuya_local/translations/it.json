@@ -213,6 +213,13 @@
                     "off": "OK",
                     "on": "Sale vuoto"
                 }
+            },
+            "water_flow": {
+                "name": "Flusso d'acqua",
+                "state": {
+                    "off": "Bloccato",
+                    "on": "Flusso"
+                }
             }
         },
         "button": {
@@ -681,6 +688,7 @@
                     "english_child": "English (Child)",
                     "french": "Français",
                     "german": "Deutsch",
+                    "hungarian": "Magyar",
                     "italian": "Italiano",
                     "japanese": "日本語",
                     "korean": "한국어",
@@ -695,7 +703,8 @@
                     "romanian": "Română",
                     "slovak": "Slovenčina",
                     "thai": "ไทย",
-                    "vietnamese": "Tiếng Việt"
+                    "vietnamese": "Tiếng Việt",
+                    "off": "Spento"
                 }
             },
             "light_mode": {
@@ -706,7 +715,16 @@
                     "state": "Stato",
                     "locator": "Localizzatore",
                     "auto": "Auto",
-                    "flash": "Flash"
+                    "flash": "Flash",
+                    "breathe": "Respira",
+                    "random": "Casuale",
+                    "color": "Colore",
+                    "favorite": "Preferito",
+                    "multi_color": "Multicolore",
+                    "custom": "Personalizzato",
+                    "mode_1": "Modalità 1",
+                    "mode_2": "Modalità 2",
+                    "mode_3": "Modalità 3"
                 }
             },
             "mopping": {
@@ -796,6 +814,7 @@
                     "cancel": "Annulla",
                     "continuous": "Continuo",
                     "custom": "Personalizzato",
+                    "immediate": "Immediato",
                     "5s": "5 secondi",
                     "10s": "10 secondi",
                     "15s": "15 secondi",
@@ -872,7 +891,10 @@
                     "10d": "10 giorni",
                     "30d": "30 giorni",
                     "60d": "60 giorni",
+                    "80d": "80 giorni",
                     "90d": "90 giorni",
+                    "100d": "100 giorni",
+                    "120d": "120 giorni",
                     "160d": "160 giorni",
                     "365d": "365 giorni"
                 }

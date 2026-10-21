@@ -213,6 +213,13 @@
                     "off": "D'acord",
                     "on": "Bajo"
                 }
+            },
+            "water_flow": {
+                "name": "Flux d'aigua",
+                "state": {
+                    "off": "Bloquejat",
+                    "on": "Fluint"
+                }
             }
         },
         "button": {
@@ -683,6 +690,7 @@
                     "english_child": "English (Child)",
                     "french": "Français",
                     "german": "Deutsch",
+                    "hungarian": "Magyar",
                     "italian": "Italiano",
                     "japanese": "日本語",
                     "korean": "한국어",
@@ -695,7 +703,8 @@
                     "spanish": "Español",
                     "thai": "ไทย",
                     "turkish": "Türkçe",
-                    "vietnamese": "Tiếng Việt"
+                    "vietnamese": "Tiếng Việt",
+                    "off": "Desactivat"
                 }
             },
             "light_mode": {
@@ -706,7 +715,16 @@
                     "state": "Estat",
                     "locator": "Localitzador",
                     "auto": "Automàtic",
-                    "flash": "Destell"
+                    "flash": "Destell",
+                    "breathe": "Respiració",
+                    "random": "Aleatori",
+                    "color": "Color",
+                    "favorite": "Preferit",
+                    "multi_color": "Multicolor",
+                    "custom": "Personalitzat",
+                    "mode_1": "Mode 1",
+                    "mode_2": "Mode 2",
+                    "mode_3": "Mode 3"
                 }
             },
             "mopping": {
@@ -796,6 +814,7 @@
                     "cancel": "Cancel·la",
                     "continuous": "Continu",
                     "custom": "Personalitzat",
+                    "immediate": "Immediat",
                     "5s": "5 segons",
                     "10s": "10 segons",
                     "15s": "15 segons",
@@ -872,7 +891,10 @@
                     "10d": "10 dies",
                     "30d": "30 dies",
                     "60d": "60 dies",
+                    "80d": "80 dies",
                     "90d": "90 dies",
+                    "100d": "100 dies",
+                    "120d": "120 dies",
                     "160d": "160 dies",
                     "365d": "365 dies"
                 }

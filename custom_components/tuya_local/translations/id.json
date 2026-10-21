@@ -213,6 +213,13 @@
                     "off": "Cukup",
                     "on": "Rendah"
                 }
+            },
+            "water_flow": {
+                "name": "Aliran air",
+                "state": {
+                    "off": "Aliran tersumbat",
+                    "on": "Aliran"
+                }
             }
         },
         "button": {
@@ -681,6 +688,7 @@
                     "english_child": "English (Child)",
                     "french": "Français",
                     "german": "Deutsch",
+                    "hungarian": "Magyar",
                     "italian": "Italiano",
                     "japanese": "日本語",
                     "korean": "한국어",
@@ -695,7 +703,8 @@
                     "romanian": "Română",
                     "slovak": "Slovenčina",
                     "thai": "ไทย",
-                    "vietnamese": "Tiếng Việt"
+                    "vietnamese": "Tiếng Việt",
+                    "off": "Mati"
                 }
             },
             "light_mode": {
@@ -706,7 +715,16 @@
                     "state": "Status",
                     "locator": "Penanda",
                     "auto": "Otomatis",
-                    "flash": "Kedip"
+                    "flash": "Kedip",
+                    "breathe": "Napas",
+                    "random": "Acak",
+                    "color": "Warna",
+                    "favorite": "Favorit",
+                    "multi_color": "Multi warna",
+                    "custom": "Kustom",
+                    "mode_1": "Mode 1",
+                    "mode_2": "Mode 2",
+                    "mode_3": "Mode 3"
                 }
             },
             "mopping": {
@@ -796,6 +814,7 @@
                     "cancel": "Batal",
                     "continuous": "Terus menerus",
                     "custom": "Kustom",
+                    "immediate": "Segera",
                     "5s": "5 detik",
                     "10s": "10 detik",
                     "15s": "15 detik",
@@ -872,7 +891,10 @@
                     "10d": "10 hari",
                     "30d": "30 hari",
                     "60d": "60 hari",
+                    "80d": "80 hari",
                     "90d": "90 hari",
+                    "100d": "100 hari",
+                    "120d": "120 hari",
                     "160d": "160 hari",
                     "365d": "365 hari"
                 }

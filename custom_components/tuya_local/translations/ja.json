@@ -213,6 +213,13 @@
                     "off": "OK",
                     "on": "補充"
                 }
+            },
+            "water_flow": {
+                "name": "水流",
+                "state": {
+                    "off": "停止",
+                    "on": "流れ"
+                }
             }
         },
         "button": {
@@ -681,6 +688,7 @@
                     "english_child": "English (Child)",
                     "french": "Français",
                     "german": "Deutsch",
+                    "hungarian": "Magyar",
                     "italian": "Italiano",
                     "japanese": "日本語",
                     "korean": "한국어",
@@ -695,7 +703,8 @@
                     "romanian": "Română",
                     "slovak": "Slovenčina",
                     "thai": "ไทย",
-                    "vietnamese": "Tiếng Việt"
+                    "vietnamese": "Tiếng Việt",
+                    "off": "オフ"
                 }
             },
             "light_mode": {
@@ -706,7 +715,16 @@
                     "state": "状態",
                     "locator": "ロケーター",
                     "auto": "自動",
-                    "flash": "フラッシュ"
+                    "flash": "フラッシュ",
+                    "breathe": "ブリーズ",
+                    "random": "ランダム",
+                    "color": "カラー",
+                    "favorite": "お気に入り",
+                    "multi_color": "マルチカラー",
+                    "custom": "カスタム",
+                    "mode_1": "モード 1",
+                    "mode_2": "モード 2",
+                    "mode_3": "モード 3"
                 }
             },
             "mopping": {
@@ -796,6 +814,7 @@
                     "cancel": "キャンセル",
                     "continuous": "連続",
                     "custom": "カスタム",
+                    "immediate": "即時",
                     "5s": "5秒",
                     "10s": "10秒",
                     "15s": "15秒",
@@ -872,7 +891,10 @@
                     "10d": "10日",
                     "30d": "30日",
                     "60d": "60日",
+                    "80d": "80日",
                     "90d": "90日",
+                    "100d": "100日",
+                    "120d": "120日",
                     "160d": "160日",
                     "365d": "365日"
                 }

@@ -43,6 +43,12 @@
             },
             "salt": {
                 "default": "mdi:salt"
+            },
+            "water_flow": {
+                "default": "mdi:water-pump",
+                "state": {
+                    "off": "mdi:water-pump-off"
+                }
             }
         },
         "button": {
