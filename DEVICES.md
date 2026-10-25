@@ -692,6 +692,7 @@
 - Kogan glass 1.7L smart kettle (at least 2 different variants)
 - Korex AX-WF306N smart kettle
 - Leoffen LFIM6000 ice cube maker
+- Mowe MW278I induction hob
 - Recteq RT-700, RT-800 Deck Boss, RT-1250, RT-B380X grills
 - Rohnson R-2858 SmartChef XL soft cooking air fryer
 - Setti+ KT950W smart kettle
@@ -1357,7 +1358,7 @@ port and password.
 - Stahlmann Smart water leak control system
 - Sunlary indoor plant watering system
 - Wasserstein AquaPal water monitor
-- WD-01GDE irrigation controller 
+- WD-01GDE irrigation controller
 - Zemismart DP-WBS01 8-zone sprinkler controller (also sold as Benexmart and other brands)
 
 ### Miscellaneous
@@ -1520,7 +1521,7 @@ port and password.
 - Nice Digi door lock
 - Orion DL021HA lock
 - O'TU R1O1 fingerprint door lock
-- Parkside PBB-A1 water timer 
+- Parkside PBB-A1 water timer
 - Positivo Smart keypad and voice locks
 - Primebras Athenas lock
 - PT216/PT19DB-2 temperature and humidity sensor
