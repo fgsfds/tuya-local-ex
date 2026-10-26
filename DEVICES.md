@@ -545,6 +545,7 @@
 - TrueLife P3 and P7 air purifiers
 - Vephos True air purifier
 - Vestfrost VP-A1Z40HW air purifier
+- Vibrix PureFlow30 air purifier
 - Vork VK6067AW air purifier
 - Webber AP9750 and APG7800 air purifiers
 
@@ -593,8 +594,7 @@
 - Morris MDB-12160HIW dehumidifier
 - NWT WDH-02EM and WDH-10EN dehumidifiers
 - Point PODH20 dehumidifier
-- Pro Breeze 30L dehumidifier
-- Pro Breeze D-23 dehumidifier
+- Pro Breeze 30L, D-23, D-18W dehumidifiers
 - Qlima D720, D812, D820A dehumidifiers
 - Rohnson R-9530 dehumidifier
 - Sefaul Q8 dehumidifier
@@ -675,6 +675,7 @@
 - Casdon KG1 inline water dispenser
 - Casdon TD Pro 2, TD Pro 3 and T2E ovens
 - Cecofry 5500 Connected air fryer
+- EA dual zone car fridge
 - Etna VW644MC dishwasher, AB791 range hood
 - Fiesta DK-1G smart kettle
 - FRE1L4 water chiller
