@@ -13,6 +13,7 @@ entities:
       - id: 13
         type: integer
         name: humidity
+        optional: true
         range:
           min: 40
           max: 70
@@ -25,6 +26,7 @@ entities:
       - id: 14
         type: integer
         name: current_humidity
+        unit: "%"
       - id: 108
         type: boolean
         name: mode
@@ -37,13 +39,18 @@ entities:
         type: boolean
         name: action
         mapping:
+          - constraint: switch
+            conditions:
+              - dps_val: true
+              - dps_val: false
+                invalid: true
           - dps_val: true
             value: "humidifying"
           - dps_val: false
             value: "idle"
 
   - entity: select
-    name: "Fan speed"
+    translation_key: "fanspeed"
     icon: "mdi:fan"
     dps:
       - id: 101
@@ -63,14 +70,13 @@ entities:
 
   - entity: switch
     translation_key: "uv_sterilization"
-    icon: "mdi:sun-wireless-outline"
     dps:
       - id: 103
         type: boolean
         name: switch
 
   - entity: switch
-    name: "Humidity"
+    translation_key: "wet"
     icon: "mdi:water"
     dps:
       - id: 104
@@ -78,15 +84,14 @@ entities:
         name: switch
 
   - entity: switch
-    name: "Dehumidification"
-    icon: "mdi:hair-dryer"
+    translation_key: "auto_dry"
     dps:
       - id: 105
         type: boolean
         name: switch
 
   - entity: switch
-    name: "Vertical swing"
+    translation_key: "vertical"
     icon: "mdi:arrow-up-down"
     dps:
       - id: 102
@@ -109,7 +114,6 @@ entities:
 
   - entity: switch
     translation_key: "sleep"
-    icon: "mdi:sleep"
     dps:
       - id: 16
         type: boolean
@@ -117,7 +121,6 @@ entities:
 
   - entity: switch
     translation_key: "sound"
-    icon: "mdi:volume-high"
     category: "config"
     dps:
       - id: 109
@@ -126,7 +129,6 @@ entities:
 
   - entity: sensor
     translation_key: "filter_life"
-    icon: "mdi:air-filter"
     class: "duration"
     category: "diagnostic"
     dps:
@@ -137,7 +139,6 @@ entities:
 
   - entity: sensor
     translation_key: "time_remaining"
-    icon: "mdi:timer"
     class: "duration"
     category: "diagnostic"
     dps:
@@ -146,19 +147,24 @@ entities:
         name: sensor
         unit: "h"
 
-  - entity: sensor
-    name: "Fault"
-    icon: "mdi:alert"
+  - entity: binary_sensor
+    translation_key: "tank_empty"
     class: "problem"
     category: "diagnostic"
     dps:
       - id: 22
-        type: integer
+        type: bitfield
         name: sensor
+        mapping:
+          - dps_val: 0
+            value: false
+          - value: true
+      - id: 22
+        type: bitfield
+        name: fault_code
 
   - entity: select
     translation_key: "timer"
-    icon: "mdi:timer-outline"
     dps:
       - id: 19
         type: string
