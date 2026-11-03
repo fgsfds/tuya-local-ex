@@ -1194,6 +1194,16 @@
                     "12_hour": "12 hour",
                     "24_hour": "24 hour"
                 }
+            },
+            "fanspeed": {
+                "name": "Fan speed",
+                "state": {
+                    "auto": "Auto",
+                    "low": "Low",
+                    "medium": "Medium",
+                    "high": "High",
+                    "turbo": "Turbo"
+                }
             }
         },
         "sensor": {
@@ -1531,6 +1541,12 @@
             },
             "watermark": {
                 "name": "Watermark"
+            },
+            "vertical": {
+                "name": "Vertical swing"
+            },
+            "humidification": {
+                "name": "Humidification"
             }
         },
         "text": {
