@@ -113,8 +113,11 @@ entities:
         persist: false
 
   # ---------- Diagnostics ----------
+  # class: enum is required by HA when a sensor has text options,
+  # and every value the device can send must be mapped
   - entity: sensor
     name: System message
+    class: enum
     category: diagnostic
     dps:
       - id: 105
@@ -122,23 +125,45 @@ entities:
         type: string
         mapping:
           - dps_val: sys_msg_sys_start
-            value: System started
+            value: "System started"
+          - dps_val: sys_msg_prog
+            value: "Programming mode"
+          - dps_val: sys_msg_err_fc_side
+            value: "Limit switch error (one side)"
+          - dps_val: sys_msg_err_fc_dual
+            value: "Limit switch error (both sides)"
           - dps_val: sys_msg_err_timeover
-            value: Cycle timeout
+            value: "Cycle timeout"
+          - dps_val: sys_msg_iva
+            value: "IVA"
+          - dps_val: sys_msg_condominium
+            value: "Condominium mode"
+          - dps_val: sys_msg_padlock
+            value: "Padlock active"
           - dps_val: sys_msg_gate_alarm
-            value: Gate alarm
+            value: "Gate alarm"
+          - dps_val: sys_msg_mpa_timeover
+            value: "MPA timeout"
           - dps_val: sys_msg_cmd_skip_masterlock
-            value: Command blocked by master lock
+            value: "Command blocked by master lock"
           - dps_val: sys_msg_zc_error
-            value: Mains zero-crossing error
+            value: "Mains zero-crossing error"
           - dps_val: sys_msg_err_encoder_stall
-            value: Encoder stall
+            value: "Encoder stall"
           - dps_val: sys_msg_err_encoder
-            value: Encoder error
+            value: "Encoder error"
+          - dps_val: sys_msg_err_low_vhi
+            value: "Low voltage error (VHI)"
+          - dps_val: sys_msg_err_hi_vhi
+            value: "High voltage error (VHI)"
+          - dps_val: sys_msg_err_ka
+            value: "KA error"
           - dps_val: sys_msg_err_inv_fault
-            value: Inverter fault
+            value: "Inverter fault"
           - dps_val: sys_msg_err_inv_temp
-            value: Inverter temperature
+            value: "Inverter overtemperature"
+          - dps_val: sys_msg_err_inv_cin
+            value: "Inverter CIN error"
 
   - entity: sensor
     name: Controller model
