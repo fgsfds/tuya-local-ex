@@ -1528,11 +1528,11 @@
             "watermark": {
                 "name": "Watermark"
             },
-            "wet": {
-                "name": "Humidify"
-            },
             "vertical": {
                 "name": "Vertical swing"
+            },
+            "humidification": {
+                "name": "Humidification"
             }
         },
         "text": {
