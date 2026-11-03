@@ -5,7 +5,7 @@ products:
     model: MCB WiFi module
 entities:
   # ---------- Main gate control ----------
-  # gate_cmd (130) takes Open/Close/Stop directly; door_sensor_state (10) reports state
+  # gate_cmd (130) takes Open/Close/Stop; door_sensor_state (10) reports state
   - entity: cover
     class: gate
     dps:
