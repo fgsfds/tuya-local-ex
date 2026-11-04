@@ -1,0 +1,453 @@
+name: Veloti gate motor
+products:
+  - id: e1ky8w0o
+    manufacturer: Veloti
+    model: MCB WiFi module
+entities:
+  # ---------- Main gate control ----------
+  # gate_cmd (130) takes Open/Close/Stop; door_sensor_state (10) reports state
+  - entity: cover
+    class: gate
+    dps:
+      - id: 130
+        name: control
+        type: string
+        optional: true
+        mapping:
+          - dps_val: "Open"
+            value: open
+          - dps_val: "Close"
+            value: close
+          - dps_val: "Stop"
+            value: stop
+      - id: 10
+        name: action
+        type: string
+        mapping:
+          - dps_val: "opened"
+            value: opened
+          - dps_val: "closed"
+            value: closed
+          - dps_val: "opening"
+            value: opening
+          - dps_val: "closing"
+            value: closing
+
+  - entity: button
+    name: Pedestrian
+    icon: "mdi:walk"
+    dps:
+      - id: 130
+        name: button
+        type: string
+        optional: true
+        mapping:
+          - dps_val: "Pedestrian"
+            value: true
+
+  - entity: button
+    name: Step (auto)
+    icon: "mdi:gate-arrow-right"
+    dps:
+      - id: 130
+        name: button
+        type: string
+        optional: true
+        mapping:
+          - dps_val: "Auto"
+            value: true
+
+  # ---------- Status ----------
+  - entity: binary_sensor
+    class: opening
+    name: Gate
+    dps:
+      - id: 10
+        name: sensor
+        type: string
+        mapping:
+          - dps_val: "closed"
+            value: false
+          - value: true
+
+  - entity: binary_sensor
+    class: running
+    name: Motor
+    dps:
+      - id: 2
+        name: sensor
+        type: boolean
+
+  - entity: switch
+    name: Master lock
+    icon: "mdi:lock"
+    dps:
+      - id: 133
+        name: switch
+        type: boolean
+
+  - entity: sensor
+    name: Last remote (open)
+    icon: "mdi:remote"
+    dps:
+      - id: 111
+        name: sensor
+        type: integer
+
+  - entity: sensor
+    name: Last remote (close)
+    icon: "mdi:remote"
+    dps:
+      - id: 121
+        name: sensor
+        type: integer
+
+  - entity: sensor
+    name: Remote with low battery
+    icon: "mdi:battery-alert"
+    dps:
+      - id: 106
+        name: sensor
+        type: integer
+        optional: true
+        persist: false
+
+  # ---------- Diagnostics ----------
+  # class: enum is required by HA when a sensor has text options,
+  # and every value the device can send must be mapped
+  - entity: sensor
+    name: System message
+    class: enum
+    category: diagnostic
+    dps:
+      - id: 105
+        name: sensor
+        type: string
+        mapping:
+          - dps_val: sys_msg_sys_start
+            value: "System started"
+          - dps_val: sys_msg_prog
+            value: "Programming mode"
+          - dps_val: sys_msg_err_fc_side
+            value: "Limit switch error (one side)"
+          - dps_val: sys_msg_err_fc_dual
+            value: "Limit switch error (both sides)"
+          - dps_val: sys_msg_err_timeover
+            value: "Cycle timeout"
+          - dps_val: sys_msg_iva
+            value: "IVA"
+          - dps_val: sys_msg_condominium
+            value: "Condominium mode"
+          - dps_val: sys_msg_padlock
+            value: "Padlock active"
+          - dps_val: sys_msg_gate_alarm
+            value: "Gate alarm"
+          - dps_val: sys_msg_mpa_timeover
+            value: "MPA timeout"
+          - dps_val: sys_msg_cmd_skip_masterlock
+            value: "Command blocked by master lock"
+          - dps_val: sys_msg_zc_error
+            value: "Mains zero-crossing error"
+          - dps_val: sys_msg_err_encoder_stall
+            value: "Encoder stall"
+          - dps_val: sys_msg_err_encoder
+            value: "Encoder error"
+          - dps_val: sys_msg_err_low_vhi
+            value: "Low voltage error (VHI)"
+          - dps_val: sys_msg_err_hi_vhi
+            value: "High voltage error (VHI)"
+          - dps_val: sys_msg_err_ka
+            value: "KA error"
+          - dps_val: sys_msg_err_inv_fault
+            value: "Inverter fault"
+          - dps_val: sys_msg_err_inv_temp
+            value: "Inverter overtemperature"
+          - dps_val: sys_msg_err_inv_cin
+            value: "Inverter CIN error"
+
+  - entity: sensor
+    name: Controller model
+    category: diagnostic
+    dps:
+      - id: 101
+        name: sensor
+        type: string
+
+  - entity: sensor
+    name: Encoder position
+    category: diagnostic
+    dps:
+      - id: 103
+        name: sensor
+        type: integer
+        optional: true
+
+  - entity: sensor
+    name: Cycle length
+    category: diagnostic
+    dps:
+      - id: 102
+        name: sensor
+        type: integer
+        optional: true
+
+  - entity: sensor
+    name: Max motor frequency
+    category: diagnostic
+    dps:
+      - id: 107
+        name: sensor
+        type: integer
+        unit: Hz
+        optional: true
+
+  - entity: sensor
+    name: RF counters
+    category: diagnostic
+    hidden: true
+    dps:
+      - id: 190
+        name: sensor
+        type: integer
+
+  - entity: sensor
+    name: RF memory size
+    category: diagnostic
+    hidden: true
+    dps:
+      - id: 195
+        name: sensor
+        type: integer
+
+  - entity: button
+    name: Refresh configuration
+    category: diagnostic
+    dps:
+      - id: 150
+        name: button
+        type: boolean
+        optional: true
+
+  # ---------- Timers ----------
+  - entity: number
+    name: Run time
+    category: config
+    icon: "mdi:timer-outline"
+    dps:
+      - id: 26
+        name: value
+        type: integer
+        unit: s
+        range:
+          min: 5
+          max: 300
+
+  - entity: number
+    name: Auto-close time
+    category: config
+    icon: "mdi:timer-outline"
+    dps:
+      - id: 153
+        name: value
+        type: integer
+        unit: s
+        range:
+          min: 0
+          max: 255
+
+  - entity: number
+    name: MPA timer
+    category: config
+    icon: "mdi:timer-outline"
+    dps:
+      - id: 156
+        name: value
+        type: integer
+        unit: s
+        range:
+          min: 0
+          max: 3600
+        mapping:
+          - step: 30
+
+  - entity: number
+    name: Light timer
+    category: config
+    icon: "mdi:timer-outline"
+    dps:
+      - id: 157
+        name: value
+        type: integer
+        unit: min
+        range:
+          min: 0
+          max: 60
+
+  # ---------- Advanced motor settings (disabled by default) ----------
+  - entity: number
+    name: Power adjustment
+    category: config
+    hidden: true
+    dps:
+      - id: 151
+        name: value
+        type: integer
+        range:
+          min: 0
+          max: 255
+
+  - entity: number
+    name: Brake adjustment
+    category: config
+    hidden: true
+    dps:
+      - id: 152
+        name: value
+        type: integer
+        range:
+          min: 0
+          max: 255
+
+  - entity: number
+    name: Speed adjustment
+    category: config
+    hidden: true
+    dps:
+      - id: 158
+        name: value
+        type: integer
+        optional: true
+        range:
+          min: 0
+          max: 255
+
+  - entity: number
+    name: Soft start duration
+    category: config
+    hidden: true
+    dps:
+      - id: 27
+        name: value
+        type: integer
+        unit: ms
+        optional: true
+        range:
+          min: 0
+          max: 5000
+
+  - entity: number
+    name: Soft stop duration
+    category: config
+    hidden: true
+    dps:
+      - id: 28
+        name: value
+        type: integer
+        unit: ms
+        optional: true
+        range:
+          min: 0
+          max: 5000
+
+  - entity: select
+    name: Ramp
+    category: config
+    hidden: true
+    dps:
+      - id: 159
+        name: option
+        type: string
+        optional: true
+        mapping:
+          - dps_val: min
+            value: Minimum
+          - dps_val: med
+            value: Medium
+          - dps_val: max
+            value: Maximum
+
+  - entity: select
+    name: PGM relay mode
+    category: config
+    hidden: true
+    dps:
+      - id: 154
+        name: option
+        type: string
+        mapping:
+          - dps_val: Lock
+            value: Electric lock
+          - dps_val: Pulse_Sinalizer
+            value: Pulsing signal light
+          - dps_val: Static_Sinalizer
+            value: Steady signal light
+          - dps_val: Light
+            value: Courtesy light
+
+  # ---------- Controller options (disabled by default) ----------
+  - entity: switch
+    name: Condominium mode
+    category: config
+    hidden: true
+    dps:
+      - {id: 160, name: switch, type: boolean}
+  - entity: switch
+    name: Soft start
+    category: config
+    hidden: true
+    dps:
+      - {id: 161, name: switch, type: boolean}
+  - entity: switch
+    name: Padlock function
+    category: config
+    hidden: true
+    dps:
+      - {id: 162, name: switch, type: boolean}
+  - entity: switch
+    name: Lock before motor
+    category: config
+    hidden: true
+    dps:
+      - {id: 163, name: switch, type: boolean}
+  - entity: switch
+    name: Auto-close after photocell
+    category: config
+    hidden: true
+    dps:
+      - {id: 164, name: switch, type: boolean}
+  - entity: switch
+    name: Remote control master lock
+    category: config
+    hidden: true
+    dps:
+      - {id: 165, name: switch, type: boolean}
+  - entity: switch
+    name: Motor side
+    category: config
+    hidden: true
+    dps:
+      - {id: 166, name: switch, type: boolean}
+  - entity: switch
+    name: Alarm
+    category: config
+    hidden: true
+    dps:
+      - {id: 167, name: switch, type: boolean}
+  - entity: switch
+    name: BOT A
+    category: config
+    hidden: true
+    dps:
+      - {id: 168, name: switch, type: boolean}
+  - entity: switch
+    name: Kill clearance
+    category: config
+    hidden: true
+    dps:
+      - {id: 169, name: switch, type: boolean, optional: true}
+  - entity: switch
+    name: Disable encoder stall detection
+    category: config
+    hidden: true
+    dps:
+      - {id: 170, name: switch, type: boolean, optional: true}
