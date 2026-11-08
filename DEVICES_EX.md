@@ -39,6 +39,7 @@
 - Termica Wi-Fi Boiler Controller
 - Thermex Bono 50 WiFi
 - Thermex Auga 100 V Wi-Fi water heater
+- Nisko Smart Boiler wall switch
 
 ### Thermostats
 

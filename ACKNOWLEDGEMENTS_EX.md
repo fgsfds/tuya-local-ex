@@ -25,3 +25,4 @@
 - [alexeykin1984](https://github.com/alexeykin1984) for Red Solution 30S cat litter box support.
 - [ohadvano](https://github.com/ohadvano) for FlyFans ceiling fan with light support.
 - [omerstr](https://github.com/omerstr) for Norther Swan ceiling fan and SmartAir 13L dehumidifier support.
+- [nightime7](https://github.com/nightime7) for Nisko Smart Boiler wall switch support.
