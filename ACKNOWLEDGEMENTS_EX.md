@@ -16,3 +16,4 @@
 - [pro100filimon](https://github.com/pro100filimon) for Tuvio TUH05DE support.
 - [dintrans](https://github.com/dintrans) for Veloti gate motor support.
 - [belozorov_sv](https://github.com/belozorov_sv) for Tuvio Air Washer TAO01DE support.
+- [samclark2015](https://github.com/samclark2015) for Cast LB500 self-cleaning cat litter box support.
