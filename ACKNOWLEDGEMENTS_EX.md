@@ -23,3 +23,4 @@
 - [laytya](https://github.com/laytya) for Thermex Auga 100 V water heater and Tuya 8913 thermostat support.
 - [old-atstec](https://github.com/old-atstec) for TION Breezer 4S support.
 - [alexeykin1984](https://github.com/alexeykin1984) for Red Solution 30S cat litter box support.
+- [ohadvano](https://github.com/ohadvano) for FlyFans ceiling fan with light support.
