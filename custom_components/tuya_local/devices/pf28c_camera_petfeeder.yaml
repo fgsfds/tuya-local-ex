@@ -52,7 +52,7 @@ entities:
           - dps_val: "2"
             value: "on"
   - entity: switch
-    name: Motion detection
+    translation_key: motion_detection
     icon: "mdi:motion-sensor"
     category: config
     dps:
@@ -118,7 +118,7 @@ entities:
         unit: "%"
         class: measurement
   - entity: event
-    name: Notification
+    translation_key: notification
     dps:
       - id: 212
         type: utf16b64
