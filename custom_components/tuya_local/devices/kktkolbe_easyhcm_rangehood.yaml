@@ -3,6 +3,9 @@ products:
   - id: xfw4ckzxljs4ncta
     manufacturer: KKT Kolbe
     model: Easy HCM
+  - id: gm6p7hxmvtuwn1pr
+    manufacturer: Weissgauff
+    model: Alcor TC BL Inverter Wi-Fi
 entities:
   - entity: fan
     dps:

@@ -19,3 +19,4 @@
 - [samclark2015](https://github.com/samclark2015) for Cast LB500 self-cleaning cat litter box support.
 - [etozhefokc](https://github.com/etozhefokc) for Timberk T-HU5-A101E-WF humidifier support.
 - [adyachenko](https://github.com/adyachenko) for Petzengo PF28-C camera pet feeder support.
+- [L0rDoCH](https://github.com/L0rDoCH) for Weissgauff Alcor TC BL cooker hood support.
