@@ -21,3 +21,4 @@
 - [adyachenko](https://github.com/adyachenko) for Petzengo PF28-C camera pet feeder support.
 - [L0rDoCH](https://github.com/L0rDoCH) for Weissgauff Alcor TC BL cooker hood support.
 - [laytya](https://github.com/laytya) for Thermex Auga 100 V water heater and Tuya 8913 thermostat support.
+- [old-atstec](https://github.com/old-atstec) for TION Breezer 4S support.
