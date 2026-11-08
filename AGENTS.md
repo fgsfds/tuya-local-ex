@@ -81,3 +81,20 @@ export PATH="$HOME/.local/bin:$PATH"
 
 - Please separate 
 - Always run `uv run ruff check .`, `uv run ruff check --select -I .`, `uv run ruff format --check .` and `uv run yamllint custom_components/tuya_local/devices` before committing
+
+
+## Upstream syncing and PR imports
+
+- Keep `upstream` pointed at `make-all/tuya-local` and `origin` at this fork. Fetch both remotes before comparing history or importing a contribution.
+- Before importing an upstream PR, verify it is still unmerged and check whether its device changes are already present in this fork, including under a renamed config file.
+- When syncing or rebasing on `upstream/main`, inspect the commit range first. Resolve conflicts by reviewing both versions and preserving intentional fork changes while incorporating relevant upstream fixes; do not resolve conflicts by blindly choosing “ours” or “theirs”. Run the config checks and tests after the rebase.
+- Do not rewrite or force-push a published branch unless explicitly requested. Sign commits in this repository with the configured fgsfds key. Re-sign commits whose signatures were invalidated by a rebase.
+- Import each upstream PR as its own commit. If one PR changes multiple related files, keep those changes together in that commit. Include the source link in the commit body in this form: `cherry picked / squashed from upstream PR [make-all#4495](https://github.com/make-all/tuya-local/pull/4495)`, replacing the number as appropriate.
+- Credit the original PR author in `ACKNOWLEDGEMENTS_EX.md` and add each imported device to the appropriate category in `DEVICES_EX.md`. Reuse existing credits when the same contributor is already listed; do not duplicate acknowledgement entries.
+- Review imported configs against the current schema and existing device profiles. Correct validation or compatibility issues while preserving the upstream author’s device findings, then run the YAML config tests, duplicate check, and required lint/test commands before pushing.
+
+### PRs declined for sanctions-related or political reasons
+
+- Treat a sanctions-related or political closure as an upstream decision, not as proof that the technical change is invalid or that it was accepted. Import such a PR only when the repository owner explicitly requests it.
+- Verify the exact upstream PR, its unmerged status, author, changed files, and the maintainer’s stated reason. Keep the import technically focused; do not copy political discussion into device configs or present the upstream PR as merged upstream.
+- Preserve the upstream source link in the import commit and give the original contributor the same device and acknowledgement credits as for any other imported PR.
