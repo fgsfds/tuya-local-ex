@@ -21,6 +21,7 @@
 ### Pet Care
 
 - Cast LB500 self-cleaning cat litter box
+- Petzengo PF28-C camera pet feeder
 
 ### Water Boilers
 

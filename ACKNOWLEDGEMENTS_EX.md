@@ -18,3 +18,4 @@
 - [belozorov_sv](https://github.com/belozorov_sv) for Tuvio Air Washer TAO01DE support.
 - [samclark2015](https://github.com/samclark2015) for Cast LB500 self-cleaning cat litter box support.
 - [etozhefokc](https://github.com/etozhefokc) for Timberk T-HU5-A101E-WF humidifier support.
+- [adyachenko](https://github.com/adyachenko) for Petzengo PF28-C camera pet feeder support.
