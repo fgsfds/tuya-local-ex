@@ -31,6 +31,7 @@
 ### Kitchen Appliances
 
 - Libhof IM-112 ice maker
+- Weissgauff Alcor TC BL cooker hood
 
 ### Vacuum Cleaners
 
