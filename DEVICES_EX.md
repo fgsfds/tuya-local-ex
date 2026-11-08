@@ -3,6 +3,7 @@
 ### Air Conditioners / Heat pumps
 
 - Tadiran Wind 65/3P
+- Friedrich Floating Air
 - Rapid RAM N1 Wi-Fi
 - Royal Clima RCB 80 LUX
 - Royal Clima RCS-1000-P 3.0
