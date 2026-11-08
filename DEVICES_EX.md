@@ -22,6 +22,11 @@
 ### Fans
 
 - FlyFans Ceiling Fan with Light
+- Norther Swan ceiling fan
+
+### Dehumidifiers
+
+- SmartAir 13L dehumidifier
 
 ### Pet Care
 

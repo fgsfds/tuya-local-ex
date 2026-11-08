@@ -6,6 +6,9 @@ products:
   - id: l5hlpmlox3g610sm
     manufacturer: Greenmigo
     model: Alpha Q13 Pro WiFi
+  - id: l5hlpmlox3g610sm
+    manufacturer: SmartAir
+    model: 13L
 entities:
   - entity: humidifier
     class: dehumidifier
