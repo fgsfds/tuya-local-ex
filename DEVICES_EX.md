@@ -19,6 +19,10 @@
 - Tuvio TUH05DE
 - Timberk T-HU5-A101E-WF
 
+### Fans
+
+- FlyFans Ceiling Fan with Light
+
 ### Pet Care
 
 - Cast LB500 self-cleaning cat litter box
