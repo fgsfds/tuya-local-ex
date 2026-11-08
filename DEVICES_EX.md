@@ -17,6 +17,10 @@
 - Tuvio TUH02DE
 - Tuvio TUH05DE
 
+### Pet Care
+
+- Cast LB500 self-cleaning cat litter box
+
 ### Water Boilers
 
 - Termica Wi-Fi Boiler Controller
