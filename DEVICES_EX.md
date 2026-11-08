@@ -23,6 +23,7 @@
 
 - Cast LB500 self-cleaning cat litter box
 - Petzengo PF28-C camera pet feeder
+- Red Solution 30S cat litter box
 
 ### Water Boilers
 
