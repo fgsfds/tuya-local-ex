@@ -9,6 +9,7 @@
 - Royal Clima RCS-1000-P 3.0
 - Royal Clima RCV 500
 - Tion Breezer Bio X
+- TION Breezer 4S
 
 ### Air Washers / Humidifiers
 
