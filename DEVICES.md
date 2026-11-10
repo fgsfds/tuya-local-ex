@@ -737,6 +737,7 @@
 - Ketotek KTEM06pro energy meter
 - MatSee Plus bidirectional two channel clamp meter (multiple variants)
 - Meterk single phase clamp meter
+- MTY2 energy monitoring circuit breaker
 - Ourtop ATMS100133 energy meter
 - Owon PC341 3 in 16 out clamp energy meter
 - Parkside PG/PMW-300 solar inverter
@@ -1274,6 +1275,7 @@ port and password.
 - iPettie W5 and FW54 pet feeders
 - Kalado KPF01 pet feeder
 - Kanchou pet fountain
+- Kogan F28W pet feeder
 - Leo's Loo Too pet toilet
 - Littepets MA2 series Cute Baby cat litter box
 - LSC Smart Connect pet feeder
