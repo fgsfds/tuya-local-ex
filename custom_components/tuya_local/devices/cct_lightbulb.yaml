@@ -15,6 +15,9 @@ products:
     model: CCT downlight
   - id: 3szijijz5uwozmjm
     model: Smart WiFi CCT
+  - id: key7crnwen4khc9v
+    manufacturer: Pragma
+    model: SM50WFLWWRC
 entities:
   - entity: light
     dps:
