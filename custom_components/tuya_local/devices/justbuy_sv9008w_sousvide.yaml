@@ -4,12 +4,31 @@ products:
     manufacturer: JUSTBUY
     model: SV9008W
 entities:
-  - entity: switch
-    name: Start
+  - entity: water_heater
     dps:
       - id: 2
         type: boolean
-        name: switch
+        name: operation_mode
+        mapping:
+          - dps_val: false
+            value: "off"
+          - dps_val: true
+            value: electric
+      - id: 9
+        type: integer
+        name: temperature
+        unit: C
+        range:
+          min: 250
+          max: 925
+        mapping:
+          - scale: 10
+      - id: 10
+        type: integer
+        name: current_temperature
+        unit: C
+        mapping:
+          - scale: 10
   - entity: sensor
     translation_key: cooking_status
     dps:
@@ -18,7 +37,6 @@ entities:
         name: sensor
   - entity: number
     name: Cooking time
-    category: config
     class: duration
     dps:
       - id: 7
@@ -36,31 +54,6 @@ entities:
         type: integer
         name: sensor
         unit: min
-  - entity: number
-    name: Cooking temperature
-    category: config
-    class: temperature
-    dps:
-      - id: 9
-        type: integer
-        name: value
-        unit: C
-        range:
-          min: 250
-          max: 925
-        mapping:
-          - scale: 10
-  - entity: sensor
-    name: Current temperature
-    class: temperature
-    dps:
-      - id: 10
-        type: integer
-        name: sensor
-        unit: C
-        class: measurement
-        mapping:
-          - scale: 10
   - entity: sensor
     name: Display temperature unit
     category: diagnostic
