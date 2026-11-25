@@ -98,7 +98,7 @@ entities:
             value: Заполнение бака для воды
           - dps_val: mapping_done
             value: Карта загружена
-          - dps_val: 22
+          - dps_val: "22"
             value: Возвращение на базовую станцию
 
       - id: 4  # режимы работы пылесоса
