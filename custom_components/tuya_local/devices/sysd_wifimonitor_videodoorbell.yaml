@@ -1,0 +1,18 @@
+name: Video doorbell
+products:
+  - id: cs7enrs5sxfagzlh
+    manufacturer: SYSD
+    model: WiFi Monitor
+entities:
+  - entity: event
+    class: doorbell
+    dps:
+      - id: 154
+        type: string
+        name: event
+        optional: true
+        persist: false
+        mapping:
+          - dps_val: null
+            value: null
+          - value: ring

@@ -54,3 +54,7 @@
 
 - Tuvio TR06HLCB
 - NEATSVOR X520RU
+
+### Cameras / Doorbells
+
+- SYSD WiFi Monitor video doorbell

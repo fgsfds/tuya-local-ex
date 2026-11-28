@@ -26,3 +26,4 @@
 - [ohadvano](https://github.com/ohadvano) for FlyFans ceiling fan with light support.
 - [omerstr](https://github.com/omerstr) for Norther Swan ceiling fan and SmartAir 13L dehumidifier support.
 - [nightime7](https://github.com/nightime7) for Nisko Smart Boiler wall switch support.
+- [Bsector](https://github.com/Bsector) for SYSD WiFi Monitor video doorbell support.
